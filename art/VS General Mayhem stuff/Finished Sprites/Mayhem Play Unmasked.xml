@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mayhem Play.png">
+<!-- This is intended as a playable character -->
+<SubTexture name="Mayhem Play Idle Shark0000" x="1766" y="0" width="406" height="681" frameX="-169" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0001" x="2569" y="0" width="413" height="678" frameX="-165" frameY="-15" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0002" x="835" y="2073" width="431" height="676" frameX="-153" frameY="-17" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0003" x="415" y="2073" width="420" height="677" frameX="-160" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0004" x="2569" y="678" width="413" height="678" frameX="-165" frameY="-15" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0005" x="384" y="1392" width="408" height="680" frameX="-168" frameY="-12" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0006" x="1766" y="0" width="406" height="681" frameX="-169" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0007" x="1766" y="0" width="406" height="681" frameX="-169" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0008" x="1766" y="0" width="406" height="681" frameX="-169" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0009" x="1766" y="0" width="406" height="681" frameX="-169" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0010" x="1766" y="0" width="406" height="681" frameX="-169" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0011" x="1766" y="0" width="406" height="681" frameX="-169" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0012" x="1766" y="0" width="406" height="681" frameX="-169" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Idle Shark0013" x="1766" y="0" width="406" height="681" frameX="-169" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Shark0000" x="0" y="708" width="397" height="684" frameX="-169" frameY="-8" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Shark0001" x="863" y="708" width="389" height="682" frameX="-173" frameY="-10" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Shark0002" x="1766" y="681" width="385" height="681" frameX="-174" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Shark0003" x="0" y="1392" width="384" height="681" frameX="-173" frameY="-11" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Miss0000" x="0" y="708" width="397" height="684" frameX="-169" frameY="-8" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Miss0001" x="1252" y="708" width="389" height="682" frameX="-173" frameY="-10" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Miss0002" x="1252" y="708" width="389" height="682" frameX="-173" frameY="-10" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Miss0003" x="1252" y="708" width="389" height="682" frameX="-173" frameY="-10" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Miss0004" x="1252" y="708" width="389" height="682" frameX="-173" frameY="-10" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Miss0005" x="1252" y="708" width="389" height="682" frameX="-173" frameY="-10" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Miss0006" x="1252" y="708" width="389" height="682" frameX="-173" frameY="-10" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Down Miss0007" x="1252" y="708" width="389" height="682" frameX="-173" frameY="-10" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Shark0000" x="2062" y="2073" width="407" height="668" frameX="-137" frameY="-18" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Shark0001" x="1266" y="2073" width="398" height="669" frameX="-134" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Shark0002" x="2569" y="1356" width="392" height="670" frameX="-131" frameY="-15" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Shark0003" x="2172" y="679" width="390" height="669" frameX="-130" frameY="-15" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Miss0000" x="2062" y="2073" width="407" height="668" frameX="-137" frameY="-18" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Miss0001" x="1664" y="2073" width="398" height="669" frameX="-134" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Miss0002" x="1664" y="2073" width="398" height="669" frameX="-134" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Miss0003" x="1664" y="2073" width="398" height="669" frameX="-134" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Miss0004" x="1664" y="2073" width="398" height="669" frameX="-134" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Miss0005" x="1664" y="2073" width="398" height="669" frameX="-134" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Miss0006" x="1664" y="2073" width="398" height="669" frameX="-134" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Left Miss0007" x="1664" y="2073" width="398" height="669" frameX="-134" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Shark0000" x="0" y="2073" width="415" height="678" frameX="-199" frameY="-18" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Shark0001" x="1177" y="1392" width="397" height="679" frameX="-209" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Shark0002" x="792" y="1392" width="385" height="680" frameX="-216" frameY="-15" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Shark0003" x="1574" y="1392" width="383" height="679" frameX="-218" frameY="-15" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Miss0000" x="0" y="2073" width="415" height="678" frameX="-199" frameY="-18" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Miss0001" x="2172" y="0" width="397" height="679" frameX="-209" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Miss0002" x="2172" y="0" width="397" height="679" frameX="-209" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Miss0003" x="2172" y="0" width="397" height="679" frameX="-209" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Miss0004" x="2172" y="0" width="397" height="679" frameX="-209" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Miss0005" x="2172" y="0" width="397" height="679" frameX="-209" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Miss0006" x="2172" y="0" width="397" height="679" frameX="-209" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Right Miss0007" x="2172" y="0" width="397" height="679" frameX="-209" frameY="-16" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Up Shark0000" x="1335" y="0" width="431" height="690" frameX="-156" frameY="-43" frameWidth="715" frameHeight="795" />
+<SubTexture name="Mayhem Play Up Shark0001" x="894" y="0" width="441" height="699" frameX="-150" frameY="-34" frameWidth="715" frameHeight="795" />
+<SubTexture name="Mayhem Play Up Shark0002" x="448" y="0" width="446" height="706" frameX="-147" frameY="-28" frameWidth="715" frameHeight="795" />
+<SubTexture name="Mayhem Play Up Shark0003" x="0" y="0" width="448" height="708" frameX="-145" frameY="-26" frameWidth="715" frameHeight="795" />
+<SubTexture name="Mayhem Play Up Miss0000" x="1335" y="0" width="431" height="690" frameX="-156" frameY="-43" frameWidth="715" frameHeight="795" />
+<SubTexture name="Mayhem Play Up Miss0001" x="397" y="708" width="466" height="684" frameX="-137" frameY="-9" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Up Miss0002" x="397" y="708" width="466" height="684" frameX="-137" frameY="-9" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Up Miss0003" x="397" y="708" width="466" height="684" frameX="-137" frameY="-9" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Up Miss0004" x="397" y="708" width="466" height="684" frameX="-137" frameY="-9" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Up Miss0005" x="397" y="708" width="466" height="684" frameX="-137" frameY="-9" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Up Miss0006" x="397" y="708" width="466" height="684" frameX="-137" frameY="-9" frameWidth="715" frameHeight="715" />
+<SubTexture name="Mayhem Play Up Miss0007" x="397" y="708" width="466" height="684" frameX="-137" frameY="-9" frameWidth="715" frameHeight="715" />
+</TextureAtlas>
+<!-- If you wanna know why the spritesheets for the fight and play sprites are arranged differently, -->
+<!-- I used a older version of the Spritesheet and XML Generator for the fight sprites, -->
+<!-- but I ended up using a newer version for the play sprites to make things slightly easier on me. -->

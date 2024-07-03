@@ -3,159 +3,132 @@ package;
 import flixel.FlxG;
 import flixel.FlxObject;
 import flixel.FlxSubState;
-import flixel.math.FlxMath;
 import flixel.math.FlxPoint;
 import flixel.util.FlxColor;
 import flixel.util.FlxTimer;
 import flixel.tweens.FlxEase;
 import flixel.tweens.FlxTween;
-
-class GameOverSubstate extends MusicBeatSubstate
-{
-	public var boyfriend:Boyfriend;
-	var camFollow:FlxPoint;
-	var camFollowPos:FlxObject;
-	var updateCamera:Bool = false;
+import lime.system.System;
+import lime.utils.Assets;
+#if sys
+import sys.io.File;
+import sys.FileSystem;
+import haxe.io.Path;
+import openfl.utils.ByteArray;
+import lime.media.AudioBuffer;
+import flash.media.Sound;
+#end
+import haxe.Json;
+import tjson.TJSON;
+using StringTools;
+class GameOverSubstate extends MusicBeatSubstate {
+	var bf:Character;
+	var camFollow:FlxObject;
 
 	var stageSuffix:String = "";
+	var PADILDO_suffix:String = "";
 
-	public static var characterName:String = 'bf';
-	public static var deathSoundName:String = 'fnf_loss_sfx';
-	public static var loopSoundName:String = 'gameOver';
-	public static var endSoundName:String = 'gameOverEnd';
-
-	public static var instance:GameOverSubstate;
-
-	public static function resetVariables() {
-		characterName = 'bf';
-		deathSoundName = 'fnf_loss_sfx';
-		loopSoundName = 'gameOver';
-		endSoundName = 'gameOverEnd';
-	}
-
-	override function create()
-	{
-		instance = this;
-		PlayState.instance.callOnLuas('onGameOverStart', []);
-
-		super.create();
-	}
-
-	public function new(x:Float, y:Float, camX:Float, camY:Float)
-	{
+	public function new(x:Float, y:Float) {
+		var daStage = PlayState.curStage;
+		var p1 = PlayState.SONG.player1;
+		// hscript means everything is custom
+		// and they don't  fucking lose their shit if 
+		// they don't have the proper animation
+		var daBf:String = p1 + '-dead';
+		trace(p1);
+		
 		super();
-
-		PlayState.instance.setOnLuas('inGameOver', true);
-
 		Conductor.songPosition = 0;
 
-		boyfriend = new Boyfriend(x, y, characterName);
-		boyfriend.x += boyfriend.positionArray[0];
-		boyfriend.y += boyfriend.positionArray[1];
-		add(boyfriend);
+		bf = new Character(x, y, daBf, true);
+		bf.beingControlled = true;
+		add(bf);
 
-		camFollow = new FlxPoint(boyfriend.getGraphicMidpoint().x, boyfriend.getGraphicMidpoint().y);
-
-		FlxG.sound.play(Paths.sound(deathSoundName));
+		camFollow = new FlxObject(bf.getGraphicMidpoint().x, bf.getGraphicMidpoint().y, 1, 1);
+		add(camFollow);
+		if (FlxG.random.bool(2)) { //1 / 50 chance of the game over sound being Anthony Padilla going OOOH before the mic drop
+			PADILDO_suffix = "_modified";
+			trace('where\'s anthony');
+		} else { //typically
+			switch (p1) {
+				case "mayhemMasked":
+					PADILDO_suffix = '_mayhemMasked';
+				case "mayhemUnmasked" | "mayhemUnmasked-alt":
+					PADILDO_suffix = '_mayhemUnmasked';
+				default: //the default is just BF
+					if (bf.isPixel)
+						PADILDO_suffix = "-pixel"; //yes pixel
+					else
+						PADILDO_suffix = ""; //no pixel
+			}
+			trace("the suffix is " + PADILDO_suffix + "; standard stuff");
+		}
+		FlxG.sound.play('assets/sounds/fnf_loss_sfx' + PADILDO_suffix + TitleState.soundExt);
 		Conductor.changeBPM(100);
+
 		// FlxG.camera.followLerp = 1;
 		// FlxG.camera.focusOn(FlxPoint.get(FlxG.width / 2, FlxG.height / 2));
 		FlxG.camera.scroll.set();
 		FlxG.camera.target = null;
 
-		boyfriend.playAnim('firstDeath');
-
-		var exclude:Array<Int> = [];
-
-		camFollowPos = new FlxObject(0, 0, 1, 1);
-		camFollowPos.setPosition(FlxG.camera.scroll.x + (FlxG.camera.width / 2), FlxG.camera.scroll.y + (FlxG.camera.height / 2));
-		add(camFollowPos);
+		bf.playAnim('firstDeath');
 	}
 
-	var isFollowingAlready:Bool = false;
-	override function update(elapsed:Float)
-	{
+	override function update(elapsed:Float) {
 		super.update(elapsed);
 
-		PlayState.instance.callOnLuas('onUpdate', [elapsed]);
-		if(updateCamera) {
-			var lerpVal:Float = CoolUtil.boundTo(elapsed * 0.6, 0, 1);
-			camFollowPos.setPosition(FlxMath.lerp(camFollowPos.x, camFollow.x, lerpVal), FlxMath.lerp(camFollowPos.y, camFollow.y, lerpVal));
-		}
+		if (controls.ACCEPT) { endBullshit(); }
 
-		if (controls.ACCEPT)
-		{
-			endBullshit();
-		}
-
-		if (controls.BACK)
-		{
+		if (controls.BACK) {
 			FlxG.sound.music.stop();
-			PlayState.deathCounter = 0;
-			PlayState.seenCutscene = false;
 
 			if (PlayState.isStoryMode)
-				MusicBeatState.switchState(new StoryMenuState());
+				LoadingState.loadAndSwitchState(new StoryMenuState());
 			else
-				MusicBeatState.switchState(new FreeplayState());
-
-			FlxG.sound.playMusic(Paths.music('freakyMenu'));
-			PlayState.instance.callOnLuas('onGameOverConfirm', [false]);
+				LoadingState.loadAndSwitchState(new FreeplayState());
 		}
 
-		if (boyfriend.animation.curAnim.name == 'firstDeath')
-		{
-			if(boyfriend.animation.curAnim.curFrame >= 12 && !isFollowingAlready)
-			{
-				FlxG.camera.follow(camFollowPos, LOCKON, 1);
-				updateCamera = true;
-				isFollowingAlready = true;
-			}
-
-			if (boyfriend.animation.curAnim.finished)
-			{
-				coolStartDeath();
-				boyfriend.startedDeath = true;
-			}
+		if (bf.animation.curAnim.name == 'firstDeath' && bf.animation.curAnim.curFrame == 12) {
+			FlxTween.tween(FlxG.camera, {zoom: 0.75}, 2.2, {ease: FlxEase.sineOut,}); //taken from Rhythmic Ascension's modchart lololol
+			FlxG.camera.follow(camFollow, LOCKON, 0.01);
 		}
 
-		if (FlxG.sound.music.playing)
-		{
+		if (bf.animation.curAnim.name == 'firstDeath' && bf.animation.curAnim.finished)	{
+			FlxG.sound.playMusic('assets/music/gameOver' + stageSuffix + '.ogg');
+		}
+
+		if (FlxG.sound.music.playing) {
 			Conductor.songPosition = FlxG.sound.music.time;
 		}
-		PlayState.instance.callOnLuas('onUpdatePost', [elapsed]);
 	}
 
-	override function beatHit()
-	{
+	override function beatHit() {
 		super.beatHit();
-
-		//FlxG.log.add('beat');
+		if (bf.animation.curAnim.name != 'firstDeath' && bf.animation.curAnim.name != 'deathConfirm')
+			bf.playAnim('deathLoop');
+		FlxG.log.add('beat');
 	}
 
 	var isEnding:Bool = false;
 
-	function coolStartDeath(?volume:Float = 1):Void
-	{
-		FlxG.sound.playMusic(Paths.music(loopSoundName), volume);
-	}
-
-	function endBullshit():Void
-	{
-		if (!isEnding)
-		{
+	function endBullshit():Void {
+		if (!isEnding) {
 			isEnding = true;
-			boyfriend.playAnim('deathConfirm', true);
+			bf.playAnim('deathConfirm', true);
 			FlxG.sound.music.stop();
-			FlxG.sound.play(Paths.music(endSoundName));
-			new FlxTimer().start(0.7, function(tmr:FlxTimer)
-			{
-				FlxG.camera.fade(FlxColor.BLACK, 2, false, function()
-				{
-					MusicBeatState.resetState();
-				});
+			switch (PlayState.SONG.song) {
+				case "padildo": //placeholder for now
+					stageSuffix = "_BATMAN";
+				default:
+					if (bf.isPixel)
+						stageSuffix = "-pixel"; //yes pixel
+					else
+						stageSuffix = ""; //no pixel
+			}
+			FlxG.sound.play('assets/music/gameOverEnd' + stageSuffix + TitleState.soundExt);
+			new FlxTimer().start(0.7, function(tmr:FlxTimer){
+				FlxG.camera.fade(FlxColor.BLACK, 2, false, function() { LoadingState.loadAndSwitchState(new PlayState()); });
 			});
-			PlayState.instance.callOnLuas('onGameOverConfirm', [true]);
 		}
 	}
 }

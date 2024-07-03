@@ -1,85 +1,81 @@
 package;
 
+import haxe.DynamicAccess;
 import flixel.FlxSprite;
 import flixel.graphics.frames.FlxAtlasFrames;
-#if MODS_ALLOWED
+import lime.system.System;
+import lime.utils.Assets;
+#if sys
 import sys.io.File;
-import sys.FileSystem;
+import haxe.io.Path;
+import openfl.utils.ByteArray;
+
 #end
-import openfl.utils.Assets;
 import haxe.Json;
+import flash.display.BitmapData;
 import haxe.format.JsonParser;
-
-typedef MenuCharacterFile = {
-	var image:String;
-	var scale:Float;
-	var position:Array<Int>;
-	var idle_anim:String;
-	var confirm_anim:String;
+import tjson.TJSON;
+typedef TMenuCharacterRef = {
+	var like:String;
+	var defaultGraphics:Bool;
 }
-
+typedef TMenuCharAnimation = {
+	var animation:Dynamic;
+	var ?scale:Float;
+	var ?frameRate:Int;
+	var ?offset:Array<Int>;
+	var ?loopAnim:Bool;
+	var ?flipX:Bool;
+}
 class MenuCharacter extends FlxSprite
 {
 	public var character:String;
-	private static var DEFAULT_CHARACTER:String = 'bf';
-
+	public var like:String;
+	public var jsonScale:Float = 1.0;
+	public var PuhBuhGu_frameRate:Int = 24;
+	public var offsetX:Float = 0.0;
+	public var offsetY:Float = 0.0; 
+	public var ploobs_loopAnim:Bool = false;
+	public var jsonFlipX:Bool = false;
 	public function new(x:Float, character:String = 'bf')
 	{
 		super(x);
 
-		changeCharacter(character);
-	}
-
-	public function changeCharacter(?character:String = 'bf') {
-		if(character == null) character = '';
-		if(character == this.character) return;
-
 		this.character = character;
-		antialiasing = ClientPrefs.globalAntialiasing;
-		visible = true;
-
-		var dontPlayAnim:Bool = false;
-		scale.set(1, 1);
-		updateHitbox();
-
-		switch(character) {
-			case '':
-				visible = false;
-				dontPlayAnim = true;
-			default:
-				var characterPath:String = 'images/menucharacters/' + character + '.json';
-				var rawJson = null;
-
-				#if MODS_ALLOWED
-				var path:String = Paths.modFolders(characterPath);
-				if (!FileSystem.exists(path)) {
-					path = Paths.getPreloadPath(characterPath);
-				}
-
-				if(!FileSystem.exists(path)) {
-					path = Paths.getPreloadPath('images/menucharacters/' + DEFAULT_CHARACTER + '.json');
-				}
-				rawJson = File.getContent(path);
-
-				#else
-				var path:String = Paths.getPreloadPath(characterPath);
-				if(!Assets.exists(path)) {
-					path = Paths.getPreloadPath('images/menucharacters/' + DEFAULT_CHARACTER + '.json');
-				}
-				rawJson = Assets.getText(path);
-				#end
-				
-				var charFile:MenuCharacterFile = cast Json.parse(rawJson);
-				frames = Paths.getSparrowAtlas('menucharacters/' + charFile.image);
-				animation.addByPrefix('idle', charFile.idle_anim, 24);
-				animation.addByPrefix('confirm', charFile.confirm_anim, 24, false);
-
-				if(charFile.scale != 1) {
-					scale.set(charFile.scale, charFile.scale);
-					updateHitbox();
-				}
-				offset.set(charFile.position[0], charFile.position[1]);
-				animation.play('idle');
+		// use assets it is less laggy
+		var parsedCharJson:DynamicAccess<TMenuCharacterRef> = CoolUtil.parseJson(FNFAssets.getJson("assets/images/campaign-ui-char/custom_ui_chars"));
+		if (parsedCharJson[character].defaultGraphics) {
+			// use assets, it is less laggy
+			var tex = FlxAtlasFrames.fromSparrow('assets/images/campaign-ui-char/default.png', 'assets/images/campaign-ui-char/default.xml');
+			frames = tex;
+		} else {
+			var rawPic:BitmapData = FNFAssets.getBitmapData('assets/images/campaign-ui-char/'+character+".png");
+			var rawXml:String = FNFAssets.getText('assets/images/campaign-ui-char/'+character+".xml");
+			var tex = FlxAtlasFrames.fromSparrow(rawPic, rawXml);
+			frames = tex;
 		}
+		
+		// don't use assets because you can use custom like folders
+		var animJson:TMenuCharAnimation = CoolUtil.parseJson(FNFAssets.getJson("assets/images/campaign-ui-char/"+parsedCharJson[character].like));
+		//rakuchan_idleName = Reflect.hasField(animJson, "idleName") ? animJson.idleName : "idle";
+		PuhBuhGu_frameRate = Reflect.hasField(animJson, "frameRate") ? animJson.frameRate : 24;
+		ploobs_loopAnim = Reflect.hasField(animJson, "loopAnim") ? animJson.loopAnim : false;
+		for (field in Reflect.fields(animJson.animation)) {
+			animation.addByPrefix(field, Reflect.field(animJson.animation, field), PuhBuhGu_frameRate, ploobs_loopAnim, (field == "idle"));
+			animation.addByPrefix(field, Reflect.field(animJson.animation, field), PuhBuhGu_frameRate, ploobs_loopAnim, (field == "bfConfirm"));
+			animation.addByPrefix(field, Reflect.field(animJson.animation, field), PuhBuhGu_frameRate, ploobs_loopAnim, (field == "dadConfirm"));
+			animation.addByPrefix(field, Reflect.field(animJson.animation, field), PuhBuhGu_frameRate, ploobs_loopAnim, (field == "gfConfirm"));
+		}
+		jsonScale = Reflect.hasField(animJson, "scale") ? animJson.scale : 1.0;
+		if (Reflect.hasField(animJson, "offset")) {
+			offsetX = animJson.offset[0];
+			offsetY = animJson.offset[1];
+		}
+		jsonFlipX = Reflect.hasField(animJson, "flipX") ? animJson.flipX : false;
+		this.like = Reflect.field(parsedCharJson,character).like;
+		animation.play('idle');
+		updateHitbox();
 	}
+
+	
 }

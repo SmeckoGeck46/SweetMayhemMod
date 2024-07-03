@@ -1,0 +1,18 @@
+[178[ [179[ [223[ [216[ |TutorialThing| *100* =1= #box_0_start#  <0.08< >4> (0.2( )5) {0.83{ }5} `handButHeart` ~diceStapleClick~
+:balthazarOnly: $YHP-normal-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Welcome to the Palace of Infinite Reflection, the greatest spa of the Systar System.
+:balthazarOnly: $YHP-pleased-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      My name is Balthazar, and I'm the non-threatening teen vampire who runs this place.
+:balthazarOnly: $YHP-normal-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      I also DJ on the side. You just caught me practicing my DJ skills.
+:balthazarOnly: $YHP-pleased-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      What brings you two here?
+:gf-balthazar: $normal-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      My boyfriend and I are here for a spa day!
+:gf-balthazar: $unimpressed0$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      And to get away from my parents because they keep trying to prank us.
+:bf-lego: $unimpressed0$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Yeah. Their pranks are very tiring, and we just want to relax.
+:balthazarOnly: $YHP-normal-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Understandable.
+:balthazarOnly: $YHP-pleased-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Also, Bruce Willis is here.
+:mayhemUnmasked-alt: $BrucePort$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #box_bruce# ^bruce_willis^ %0.75% !#ffffff! ?#000000? .. ~~      Hello.
+:gf-balthazar: $front-closed$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      Hi.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Interesting.
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Hey, Balthazar!
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Is it okay if I warm up my singing voice?
+:balthazarOnly: $YHP-pleased-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      I don't see why not.
+:gf-balthazar: $wink$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      Mind if I help you out, Boyfriend?
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Not at all!

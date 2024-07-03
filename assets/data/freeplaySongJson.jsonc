@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Main stuff",
+		"songs": [
+			// we use jsonc so we can do comments and do some incorrect things
+			// The category screen won't show up unless there are more than 1 categories
+			{"week":0, "character":"bf", "name":"Random-Song", "showHyphens":false},
+			{"name":"Tutorial-Brickmix", "character":"gf-balthazar", "week":0, "showHyphens":false},
+			{"name":"Sugar and Spice", "flags":["week0"],"character":"mayhemMasked", "week":1},
+			{"name":"Boba", "character":"mayhemMasked", "flags":["week0"],"week":1},
+			{"name":"Sweet Mayhem", "character":"mayhemUnmasked","flags":["week0"], "week":1},
+			{"name":"Spoonful of Salt", "character":"larryPoppins", "week":900, "flags":["week1"]}
+		]
+	}
+]

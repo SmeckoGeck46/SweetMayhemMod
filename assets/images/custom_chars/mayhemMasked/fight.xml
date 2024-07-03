@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This is meant to be used for the opponent's side
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Mayhem Masked Fight TAKE 2.png" width="4382" height="4216">
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0105" x="7" y="7"  width="407" height="680" frameX="-168" frameY="-27" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0104" x="7" y="701"  width="407" height="680" frameX="-168" frameY="-27" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0080" x="7" y="1395"  width="407" height="680" frameX="-168" frameY="-27" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0079" x="7" y="2089"  width="407" height="680" frameX="-168" frameY="-27" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0081" x="7" y="2783"  width="407" height="678" frameX="-168" frameY="-29" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0106" x="7" y="3475"  width="407" height="678" frameX="-168" frameY="-29" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0103" x="428" y="7" width="678" height="407" rotated="true"  frameX="-168" frameY="-29" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0078" x="1120" y="7" width="678" height="407" rotated="true"  frameX="-168" frameY="-29" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0107" x="1812" y="7" width="676" height="407" rotated="true"  frameX="-168" frameY="-31" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0082" x="2502" y="7" width="676" height="407" rotated="true"  frameX="-168" frameY="-31" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0063" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0083" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0108" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0062" x="1117" y="428" width="675" height="408" rotated="true"  frameX="-169" frameY="-33" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0061" x="428" y="849" width="672" height="413" rotated="true"  frameX="-170" frameY="-37" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0060" x="1806" y="428" width="669" height="420" rotated="true"  frameX="-173" frameY="-41" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0059" x="1114" y="850" width="667" height="428" rotated="true"  frameX="-178" frameY="-44" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0058" x="428" y="1276" width="663" height="438" rotated="true"  frameX="-183" frameY="-49" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0057" x="2489" y="428" width="658" height="442" rotated="true"  frameX="-190" frameY="-55" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Right Shark000" x="1795" y="862" width="644" height="380" rotated="true"  frameX="-218" frameY="-65" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Up Shark000" x="3161" y="428" width="636" height="448" rotated="true"  frameX="-145" frameY="-73" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Right Shark001" x="2453" y="884" width="636" height="399" rotated="true"  frameX="-208" frameY="-74" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark005" x="1795" y="1256" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0041" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0004" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0040" x="3103" y="890" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0039" x="2444" y="1297" width="635" height="408" rotated="true"  frameX="-167" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0036" x="1754" y="1676" width="635" height="419" rotated="true"  frameX="-156" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark004" x="1105" y="1712" width="635" height="409" rotated="true"  frameX="-167" frameY="-73" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Down Shark003" x="428" y="1728" width="635" height="397" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark003" x="3093" y="1310" width="634" height="413" rotated="true"  frameX="-165" frameY="-74" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0017" x="3741" y="1345" width="634" height="408" rotated="true"  frameX="-168" frameY="-73" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0002" x="2403" y="1719" width="634" height="413" rotated="true"  frameX="-165" frameY="-74" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0003" x="1754" y="2109" width="634" height="408" rotated="true"  frameX="-168" frameY="-73" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0018" x="1077" y="2135" width="634" height="414" rotated="true"  frameX="-164" frameY="-74" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Right Shark002" x="428" y="2139" width="634" height="410" rotated="true"  frameX="-202" frameY="-77" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Down Shark000" x="3051" y="1737" width="634" height="380" rotated="true"  frameX="-177" frameY="-73" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Down Shark001" x="3699" y="1767" width="634" height="389" rotated="true"  frameX="-173" frameY="-73" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Down Shark002" x="3051" y="2131" width="634" height="395" rotated="true"  frameX="-170" frameY="-73" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0035" x="2402" y="2146" width="633" height="417" rotated="true"  frameX="-159" frameY="-75" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark002" x="1725" y="2531" width="633" height="417" rotated="true"  frameX="-162" frameY="-75" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Right Shark003" x="3699" y="2170" width="633" height="415" rotated="true"  frameX="-199" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0001" x="3049" y="2540" width="633" height="420" rotated="true"  frameX="-160" frameY="-75" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0052" x="2372" y="2577" width="632" height="401" rotated="true"  frameX="-164" frameY="-76" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0019" x="3696" y="2599" width="632" height="423" rotated="true"  frameX="-158" frameY="-76" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0034" x="3018" y="2974" width="632" height="417" rotated="true"  frameX="-162" frameY="-76" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark001" x="3664" y="3036" width="632" height="423" rotated="true"  frameX="-158" frameY="-76" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Left Shark000" x="428" y="3473"  width="380" height="632" frameX="-140" frameY="-67" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Up Shark001" x="428" y="2992" width="631" height="439" rotated="true"  frameX="-151" frameY="-77" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0020" x="1073" y="2563" width="631" height="429" rotated="true"  frameX="-154" frameY="-77" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0000" x="1718" y="2962" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0021" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark000" x="2362" y="2992" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Up Shark002" x="1717" y="3407" width="629" height="434" rotated="true"  frameX="-154" frameY="-79" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0053" x="428" y="2563" width="628" height="386" rotated="true"  frameX="-145" frameY="-81" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Up Shark003" x="3006" y="3405" width="628" height="431" rotated="true"  frameX="-156" frameY="-80" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0054" x="2360" y="3437" width="626" height="365" rotated="true"  frameX="-130" frameY="-85" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Left Shark001" x="3648" y="3473"  width="395" height="624" frameX="-138" frameY="-76" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0056" x="2360" y="3850" width="624" height="359" rotated="true"  frameX="-127" frameY="-87" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0055" x="2998" y="3850" width="624" height="359" rotated="true"  frameX="-127" frameY="-87" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Left Shark003" x="822" y="3451"  width="407" height="623" frameX="-137" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Left Shark002" x="1243" y="3451"  width="404" height="623" frameX="-137" frameY="-77" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0005" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0006" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0007" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0008" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0009" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0010" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0011" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0012" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0013" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0014" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0015" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0016" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark006" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark007" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark008" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Idle Shark009" x="3811" y="696"  width="406" height="635" frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0022" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0023" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0024" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0025" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0026" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0027" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0028" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0029" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0030" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0031" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0032" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0033" x="1073" y="3006" width="630" height="431" rotated="true"  frameX="-153" frameY="-78" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0037" x="1754" y="1676" width="635" height="419" rotated="true"  frameX="-156" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0038" x="1754" y="1676" width="635" height="419" rotated="true"  frameX="-156" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0042" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0043" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0044" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0045" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0046" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0047" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0048" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0049" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0050" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0051" x="1105" y="1292" width="635" height="406" rotated="true"  frameX="-169" frameY="-72" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0064" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0065" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0066" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0067" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0068" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0069" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0070" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0071" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0072" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0073" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0074" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0075" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0076" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0077" x="3192" y="7" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0084" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0085" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0086" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0087" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0088" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0089" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0090" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0091" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0092" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0093" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0094" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0095" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0096" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0097" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0098" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0099" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0100" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0101" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0102" x="3881" y="7"  width="407" height="675" frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0109" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0110" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0111" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0112" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0113" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0114" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0115" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0116" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0117" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0118" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0119" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0120" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0121" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0122" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0123" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0124" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0125" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0126" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+  <SubTexture name="Mayhem Fight Boba cutscene DONE shark0127" x="428" y="428" width="675" height="407" rotated="true"  frameX="-168" frameY="-32" frameWidth="715" frameHeight="745"/>
+</TextureAtlas>

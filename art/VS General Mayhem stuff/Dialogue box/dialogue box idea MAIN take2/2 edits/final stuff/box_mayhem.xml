@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="box_mayhem.png" width="2978" height="1719">
+  <SubTexture name="normal000" x="10" y="10"  width="1216" height="439" frameX="-135" frameY="-313" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open002" x="1246" y="10"  width="1360" height="407" frameX="-63" frameY="-345" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open000" x="2626" y="10"  width="342" height="349" frameX="-571" frameY="-403" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open003" x="1246" y="437"  width="1312" height="417" frameX="-87" frameY="-335" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open005" x="10" y="469"  width="1216" height="439" frameX="-135" frameY="-313" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open004" x="1246" y="874"  width="1264" height="428" frameX="-111" frameY="-324" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open001" x="10" y="1322"  width="835" height="387" frameX="-325" frameY="-365" frameWidth="1494" frameHeight="864"/>
+</TextureAtlas>

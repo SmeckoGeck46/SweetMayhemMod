@@ -1,0 +1,79 @@
+trace(": )");
+// char is a Character
+function init(char) {
+	var tex = FlxAtlasFrames.fromSparrow(hscriptPath + 'char.png', hscriptPath + 'char.xml');
+	char.frames = tex;
+	char.animation.addByPrefix('idle', 'idleName', 24, false);
+	char.animation.addByPrefix('singUP', 'upName', 24, false);
+	char.animation.addByPrefix('singLEFT','leftName', 24, false);
+	char.animation.addByPrefix('singRIGHT', 'rightName', 24, false);
+	char.animation.addByPrefix('singDOWN', 'downName', 24, false);
+	//in case of needing to resize the character:
+	//char.setGraphicSize(Std.int(char.width * 0.8));
+
+	if (char.isPlayer) { //player offsets
+
+		char.followCamX = -100;
+		char.followCamY = 0;
+
+		char.addOffset('singUP', -16, 50);
+		char.addOffset('singRIGHT',-40, 10);
+		char.addOffset('singLEFT', 30, 27);
+		char.addOffset('singDOWN', 33, -30);
+
+	} else { //opponent offsets
+
+		char.followCamX = 259;
+		char.followCamY = -100;
+
+		char.addOffset('singUP', -6, 50);
+		char.addOffset('singRIGHT',0, 27);
+		char.addOffset('singLEFT', -10, 10);
+		char.addOffset('singDOWN', 0, -30);
+
+	}
+
+	char.addOffset('idle', 0);
+	
+
+	char.playAnim('idle');
+
+	char.flipX = false;
+
+	char.enemyOffsetX = 0;
+	char.enemyOffsetY = 0;
+	char.playerOffsetX = 0;
+	char.playerOffsetY = -350;
+	char.camOffsetX = 0;
+	char.camOffsetY = 0;
+	char.midpointX = 0;
+	char.midpointY = 0;
+	//health colors in hex
+	char.enemyColor = 0xFFABCDEF;
+	char.playerColor = 0xff012345;
+	/*
+	* in case of multiple characters using the same hscript
+	if (char.curCharacter == "dad") {
+		char.enemyColor = 0xFFA200CA;
+		char.playerColor = 0xFFA200CA;
+	} else if (char.curCharacter == "gawrGura") {
+		char.enemyColor = 0xFF9ACAFF;
+		char.playerColor = 0xFF9ACAFF;
+	} else {
+		char.enemyColor = 0xFF9ACAFF;
+		char.playerColor = 0xFF9ACAFF;
+	}
+	*/
+}
+portraitOffset = [0, 0];
+dadVar = 6.1;
+isPixel = false;
+function update(elapsed, char) {
+	// do nothing...
+}
+var danced = false;
+function dance(char) {
+	trace("basketball is for communists");
+	char.playAnim('idle');
+}
+trace("done");

@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\Finished Sprites",
+  "images": [],
+  "folders": [
+    "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Larry Poppins sprites/separate sprites/Fight"
+  ],
+  "packOptions": {
+    "textureName": "Larry Poppins Fight",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "Starling",
+    "fileName": "pack-result",
+    "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\Finished Sprites",
+    "width": 3600,
+    "height": 3600,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 10,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

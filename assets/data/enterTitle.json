@@ -1,0 +1,13 @@
+{
+"idleName": "Press Enter to Begin",
+"pressName": "ENTER PRESSED",
+"curX": -150,
+"curY": 450,
+"idleFPS": 30,
+"pressFPS": 22,
+"idleLoop": true,
+"pressLoop": false,
+"shouldScale": false,
+"curScale": 1,
+"isPixel": false
+}

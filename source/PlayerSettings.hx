@@ -7,8 +7,7 @@ import flixel.util.FlxSignal;
 
 // import ui.DeviceManager;
 // import props.Player;
-class PlayerSettings
-{
+class PlayerSettings{
 	static public var numPlayers(default, null) = 0;
 	static public var numAvatars(default, null) = 0;
 	static public var player1(default, null):PlayerSettings;
@@ -33,34 +32,26 @@ class PlayerSettings
 	// public var avatar:Player;
 	// public var camera(get, never):PlayCamera;
 
-	function new(id, scheme)
-	{
+	function new(id, scheme){
 		this.id = id;
 		this.controls = new Controls('player$id', scheme);
 	}
 
-	public function setKeyboardScheme(scheme)
-	{
-		controls.setKeyboardScheme(scheme);
-	}
+	public function setKeyboardScheme(scheme) { controls.setKeyboardScheme(scheme); }
 
 	/* 
-		static public function addAvatar(avatar:Player):PlayerSettings
-		{
+		static public function addAvatar(avatar:Player):PlayerSettings{
 			var settings:PlayerSettings;
 
-			if (player1 == null)
-			{
+			if (player1 == null){
 				player1 = new PlayerSettings(0, Solo);
 				++numPlayers;
 			}
 
 			if (player1.avatar == null)
 				settings = player1;
-			else
-			{
-				if (player2 == null)
-				{
+			else{
+				if (player2 == null){
 					if (player1.controls.keyboardScheme.match(Duo(true)))
 						player2 = new PlayerSettings(1, Duo(false));
 					else
@@ -84,14 +75,12 @@ class PlayerSettings
 			return settings;
 		}
 
-		static public function removeAvatar(avatar:Player):Void
-		{
+		static public function removeAvatar(avatar:Player):Void{
 			var settings:PlayerSettings;
 
 			if (player1 != null && player1.avatar == avatar)
 				settings = player1;
-			else if (player2 != null && player2.avatar == avatar)
-			{
+			else if (player2 != null && player2.avatar == avatar){
 				settings = player2;
 				if (player1.controls.keyboardScheme.match(Duo(_)))
 					player1.setKeyboardScheme(Solo);
@@ -100,8 +89,7 @@ class PlayerSettings
 				throw "Cannot remove avatar that is not for a player";
 
 			settings.avatar = null;
-			while (settings.controls.gamepadsAdded.length > 0)
-			{
+			while (settings.controls.gamepadsAdded.length > 0){
 				final id = settings.controls.gamepadsAdded.shift();
 				settings.controls.removeGamepad(id);
 				DeviceManager.releaseGamepad(FlxG.gamepads.getByID(id));
@@ -115,17 +103,16 @@ class PlayerSettings
 		}
 
 	 */
-	static public function init():Void
-	{
-		if (player1 == null)
-		{
-			player1 = new PlayerSettings(0, Solo);
+	static public function init():Void{
+		if (player1 == null){
+			player1 = new PlayerSettings(0, Solo(false));
 			++numPlayers;
 		}
-
+		if (player2 == null) {
+			player2 = new PlayerSettings(1, Duo(false));
+		}
 		var numGamepads = FlxG.gamepads.numActiveGamepads;
-		if (numGamepads > 0)
-		{
+		if (numGamepads > 0){
 			var gamepad = FlxG.gamepads.getByID(0);
 			if (gamepad == null)
 				throw 'Unexpected null gamepad. id:0';
@@ -133,10 +120,8 @@ class PlayerSettings
 			player1.controls.addDefaultGamepad(0);
 		}
 
-		if (numGamepads > 1)
-		{
-			if (player2 == null)
-			{
+		if (numGamepads > 1){
+			if (player2 == null){
 				player2 = new PlayerSettings(1, None);
 				++numPlayers;
 			}
@@ -151,8 +136,7 @@ class PlayerSettings
 		// DeviceManager.init();
 	}
 
-	static public function reset()
-	{
+	static public function reset(){
 		player1 = null;
 		player2 = null;
 		numPlayers = 0;

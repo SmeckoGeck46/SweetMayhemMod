@@ -1,0 +1,15 @@
+function start(song) {setDefaultZoomOld(0.85);}
+
+function stepHit(step) {
+	switch (step) {
+		case 124, 188, 328:
+			boyfriend.playAnim('hey');
+			dad.playAnim('cheer');
+			gf.playAnim('cheer');
+		case 656:
+			currentPlayState.gfSpeed = 512;
+			currentPlayState.bfSpeed = 512;
+			currentPlayState.dadSpeed = 512;
+		}
+}
+//healthing the bar is in the stage's hscript

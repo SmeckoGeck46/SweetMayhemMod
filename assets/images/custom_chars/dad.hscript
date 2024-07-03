@@ -1,0 +1,57 @@
+trace("ah that's hot");
+// char is a Character
+function init(char) {
+	var tex = FlxAtlasFrames.fromSparrow(hscriptPath + 'char.png', hscriptPath + 'char.xml');
+	char.frames = tex;
+	char.animation.addByPrefix('idle', 'Dad idle dance', 31, false);
+	char.animation.addByPrefix('singUP', 'Dad Sing Note UP', 24, false);
+	char.animation.addByPrefix('singLEFT','Dad Sing Note LEFT', 24, false);
+	char.animation.addByPrefix('singRIGHT', 'Dad Sing Note RIGHT', 24, false);
+	char.animation.addByPrefix('singDOWN', 'Dad Sing Note DOWN', 24, false);
+
+	if (char.isPlayer) { //player offsets
+
+		char.followCamX = -100;
+		char.followCamY = 0;
+
+		char.addOffset('singUP', -7, 50);
+		char.addOffset('singRIGHT',20, 10);
+		char.addOffset('singLEFT', -1, 27);
+		char.addOffset('singDOWN',1, -30);
+
+	} else { //opponent offsets
+
+		char.followCamX = 259;
+		char.followCamY = -100;
+
+		char.addOffset('singUP', -6, 50);
+		char.addOffset('singRIGHT',0, 27);
+		char.addOffset('singLEFT', -10, 10);
+		char.addOffset('singDOWN', 0, -30);
+
+	}
+	
+	char.addOffset('idle', 0);
+	char.playAnim('idle');
+
+	char.flipX = false;
+	char.enemyOffsetX = 0;
+	char.enemyOffsetY = 0;
+	char.playerOffsetX = 100;
+	char.playerOffsetY = -350;
+	char.midpointX = 0;
+	char.midpointY = 0;
+	//test thingy for the colors
+	char.enemyColor = 0xffd83453;
+	char.playerColor = 0xffd83453;
+}
+dadVar = 6.1;
+isPixel = false;
+portraitOffset = [0,0];
+function update(elapsed, char) {}
+var danced = false;
+function dance(char) {
+	trace("It's Rewind Time");
+	char.playAnim('idle');
+}
+trace("that's hot");

@@ -1,0 +1,20 @@
+[178[ [179[ [223[ [216[ |mayhem_credits| *100* =1= #box_0_start#  <0.08< >4> (0.2( )5) {0.83{ }5} `handButHeart` ~diceStapleClick~
+:mayhemUnmasked: $yay-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      That was a lot of fun!
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      It sure was!
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      It was great for me to sing again!
+:mayhemUnmasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Anyways, I should really be going now.
+:mayhemUnmasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      My shift is done here, and I have to go to Apocolypsburg.
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Balthazar, make sure to keep our guests relaxed while they're having their spa day.
+:balthazarOnly: $YHP-pleased-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Got it!
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Boyfriend, Girlfriend, enjoy your stay at the Palace of Infinite Reflection!
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Will do!
+:gf-balthazar: $default-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#FFFFFF! ?#000000? .. ~~      Yeah!
+:gf-balthazar: $unimpressed0$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      Also, are you gonna put your helmet back on?
+:mayhemUnmasked: $what-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      I was thinking of doing that when I got back on my ship.
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Anyways, gotta go now!
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      See ya next time!
+:gf-balthazar: $default-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#FFFFFF! ?#000000? .. ~~      Good luck in Apocolypsburg!
+:balthazarOnly: $YHP-pleased-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Best of luck to you, General!
+:mayhemUnmasked-alt: $BrucePort$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #box_bruce# ^bruce_willis^ %0.75% !#ffffff! ?#000000? .. ~~      Bye.
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      See ya, guys!
+:mayhemUnmasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Until we meet again, farewell.

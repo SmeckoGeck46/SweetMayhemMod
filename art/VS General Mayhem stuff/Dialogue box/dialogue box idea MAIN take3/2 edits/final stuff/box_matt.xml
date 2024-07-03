@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="box_matt.png">
+<!--generated in the FNF Spritesheet and XML generator because I felt like using it-->
+<SubTexture name="open0000" x="0" y="1320" width="1236" height="387" frameX="-135" frameY="-385" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0001" x="1236" y="898" width="1236" height="406" frameX="-135" frameY="-366" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0002" x="0" y="898" width="1236" height="422" frameX="-135" frameY="-350" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0003" x="1236" y="443" width="1236" height="434" frameX="-135" frameY="-338" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0004" x="1236" y="0" width="1236" height="443" frameX="-135" frameY="-329" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0005" x="0" y="450" width="1236" height="448" frameX="-135" frameY="-324" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0006" x="0" y="0" width="1236" height="450" frameX="-135" frameY="-322" frameWidth="1494" frameHeight="864" />
+<SubTexture name="normal0000" x="0" y="0" width="1236" height="450" frameX="-135" frameY="-322" frameWidth="1494" frameHeight="864" />
+</TextureAtlas>

@@ -1,0 +1,44 @@
+[178[ [179[ [223[ [216[ |Sweet Mayhem cutscene 1 LOOP| *100* =1= #box_0_start#  <0.08< >4> (0.2( )5) {0.83{ }5} `handButHeart` ~diceStapleClick~
+:balthazarOnly: $YHP-pleased-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Ah, hello there, General.
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mystery# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      Good day, Balthazar.
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mystery# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      I see you've been practicing your DJ skills.
+:gf-balthazar: $normal-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      Yeah, he's really good at it!
+:balthazarOnly: $YHP-flattered-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Aw, you guys flatter me.
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      You're welcome!
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      So who are you, helmet fairy lady?
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      I'm guessing you're the General around here.
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mystery# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      I'm General Mayhem, the intergalactic naval commander of the Systar System.
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      I'm here to inspect how things are going on Planet Sparkles.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Neato.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Me and my gif are here for a spa day.
+:gf-balthazar: $normal-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      We heard that the Palace of Infinite Reflection on Planet Sparkles is one of the best spas in the universe.
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      It certainly is.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.4; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      ...
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.4; |true| #box_mayhem# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      ...
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      So, you wanna have a sing-off?
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      Excuse me?
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      I like to have a sing-off with someone I come across every now and then.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Originally, I did one with my gif's dad so he can accept me into her family.
+:gf-balthazar: $unimpressed0$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      Yeah. My dad would NOT accept BF.
+:gf-balthazar: $normal-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      But now he does!
+:gf-balthazar: $unimpressed0$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      At least, I'm pretty sure he does.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Now I've just been doing sing-offs with pretty much anyone I come across to get to know some folks and have fun in the process.
+:gf-balthazar: $normal-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      Yeah! There was the time we were in Nevada, and he faced off a killer clown...
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      There was that bomb guy in an alleyway who I think wanted to be left alone...
+:gf-balthazar: $normal-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      There were those two guys who looked like humanoid Geometry Dash icons. I think their names were Karl and Sean?
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      There was also that emo blonde guy with the brain parasite.
+:gf-balthazar: $unimpressed0$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      Oh yeah, that guy.
+:gf-balthazar: $unimpressed-front$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      Why did we come across him, again?
+:bf-lego: $unimpressed0$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      I dunno; I was curious.
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      Wow.
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      Sounds like you guys have been through a lot.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Yup.
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      So, you up for a sing-off?
+:mayhemMasked: $shy-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      I mean, I am a pretty good singer myself...
+:mayhemMasked: $shy-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.4; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      ...
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      You know what?
+:mayhemMasked: $explain-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      Sure, I'm in! It sounds like fun!
+:bf-lego: $yay$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Yeah!
+:gf-balthazar: $yay$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      That's how you do it!
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#ffffff! ?#000000? .. ~~      Balthazar, give us a beat.
+:balthazarOnly: $YHP-normal-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      I've got just the thing.

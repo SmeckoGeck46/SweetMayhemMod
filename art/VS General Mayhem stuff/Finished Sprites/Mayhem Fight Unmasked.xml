@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Mayhem Fight.png">
+<!-- This is meant to be used for the opponent's side -->
+<SubTexture name="Mayhem Fight Idle Shark0000" x="0" y="0" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0001" x="719" y="0" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0002" x="1438" y="0" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0003" x="2157" y="0" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0004" x="0" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0005" x="719" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0006" x="1438" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0007" x="1438" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0008" x="1438" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0009" x="1438" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0010" x="1438" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0011" x="1438" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0012" x="1438" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Idle Shark0013" x="1438" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Down Shark0000" x="2157" y="719" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Down Shark0001" x="0" y="1438" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Down Shark0002" x="719" y="1438" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Down Shark0003" x="1438" y="1438" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Left Shark0000" x="2157" y="1438" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Left Shark0001" x="0" y="2157" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Left Shark0002" x="719" y="2157" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Left Shark0003" x="1438" y="2157" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Right Shark0000" x="2157" y="2157" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Right Shark0001" x="0" y="2876" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Right Shark0002" x="719" y="2876" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Right Shark0003" x="1438" y="2876" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Up Shark0000" x="2157" y="2876" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Up Shark0001" x="0" y="3595" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Up Shark0002" x="719" y="3595" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+<SubTexture name="Mayhem Fight Up Shark0003" x="1438" y="3595" width="719" height="719" frameX="0" frameY="0" frameWidth="719" frameHeight="719" />
+</TextureAtlas>

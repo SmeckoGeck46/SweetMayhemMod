@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="campaign_menu_UI_assets.png" width="348" height="320">
+  <SubTexture name="NORMAL0000" x="6" y="6" width="67" height="308" rotated="true"  frameX="-0" frameY="-0" frameWidth="308" frameHeight="67"/>
+  <SubTexture name="HARD0000" x="85" y="6" width="67" height="211" rotated="true"  frameX="-0" frameY="-0" frameWidth="211" frameHeight="67"/>
+  <SubTexture name="EASY0000" x="164" y="6" width="65" height="196" rotated="true"  frameX="-0" frameY="-0" frameWidth="196" frameHeight="65"/>
+  <SubTexture name="lock0000" x="85" y="229" width="93" height="67" rotated="true"  frameX="-0" frameY="-0" frameWidth="67" frameHeight="93"/>
+  <SubTexture name="arrow left0000" x="241" y="6"  width="48" height="85" frameX="-0" frameY="-0" frameWidth="48" frameHeight="85"/>
+  <SubTexture name="arrow right0000" x="241" y="103"  width="47" height="85" frameX="-0" frameY="-0" frameWidth="47" frameHeight="85"/>
+  <SubTexture name="arrow push left0000" x="241" y="200"  width="42" height="75" frameX="-0" frameY="-0" frameWidth="42" frameHeight="75"/>
+  <SubTexture name="arrow push right0000" x="301" y="6"  width="41" height="74" frameX="-0" frameY="-0" frameWidth="41" frameHeight="74"/>
+</TextureAtlas>

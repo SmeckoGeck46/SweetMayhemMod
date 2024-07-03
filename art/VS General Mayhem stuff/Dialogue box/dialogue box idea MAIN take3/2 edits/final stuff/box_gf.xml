@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="box_gf.png" width="2090" height="2088">
+  <SubTexture name="normal000" x="7" y="7" width="430" height="1216" rotated="true"  frameX="-135" frameY="-322" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open006" x="7" y="7" width="430" height="1216" rotated="true"  frameX="-135" frameY="-322" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open005" x="7" y="1237"  width="1216" height="428" frameX="-135" frameY="-324" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open002" x="7" y="1679"  width="1216" height="402" frameX="-135" frameY="-350" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open004" x="451" y="7" width="423" height="1216" rotated="true"  frameX="-135" frameY="-329" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open003" x="888" y="7" width="414" height="1216" rotated="true"  frameX="-135" frameY="-338" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open001" x="1316" y="7" width="386" height="1216" rotated="true"  frameX="-135" frameY="-366" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open000" x="1716" y="7" width="367" height="1216" rotated="true"  frameX="-135" frameY="-385" frameWidth="1494" frameHeight="864"/>
+</TextureAtlas>

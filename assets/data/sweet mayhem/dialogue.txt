@@ -1,0 +1,58 @@
+[178[ [179[ [223[ [216[ |Sweet Mayhem cutscene 3 idea LOOP| *100* =1= #box_0_start#  <0.08< >4> (0.2( )5) {0.83{ }5} `handButHeart` ~diceStapleClick~
+:gf-balthazar: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      Oh, you took off your helmet.
+:mayhemUnmasked: $what-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.4; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      ...
+:gf-balthazar: $normal-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      You look really nice, by the way!
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      I like those twin-tails!
+:gf-balthazar: $normal-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      I really like your eyes!
+:mayhemUnmasked: $shy-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.1; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      ...Thanks.
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      So, why is that?
+:mayhemUnmasked: $what-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Why is what?
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Why did you take off your helmet?
+:mayhemUnmasked: $sad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.1; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      You see...well...
+:mayhemUnmasked: $explain-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      I just wanted to cut the act.
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      What act?
+:mayhemUnmasked: $explain-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      After my shift here, I have to go to Apocolypsburg and invite their fearless leaders to the Systar System.
+:mayhemUnmasked: $explain-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      I want to appear and act tough when I go there, so I've been practicing my tough act lately.
+:mayhemUnmasked: $sad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Heck, the entire gimmick of Apocolypsburg is nothing but acting tough!
+:mayhemUnmasked: $explain-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Wherever you go, it's nothing but this:
+:mayhemUnmasked: $mad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      "Be tough or be eaten alive!" "Ow the Edge!" "Time to put away childish things!" "Tomahawk Chop is my death blow!"
+:mayhemUnmasked: $what-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Stuff like that.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Ah, okay.
+:mayhemUnmasked: $explain-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      I'm not coming across as too mean, am I?
+:gf-balthazar: $normal-closed$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      No, I don't think so.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      I don't think so, either.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      I just assumed that you were always that tough and competitive.
+:balthazarOnly: $YHP-normal-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      I never thought you were mean, General.
+:balthazarOnly: $YHP-normal-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      I've always seen you as a "no-nonsense" kind of person. Someone who is willing to get the job done.
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Yeah! You're an absolute girlboss!
+:mayhemUnmasked: $what-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.4; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      ...?
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      That was a compliment, by the way.
+:mayhemUnmasked: $shy-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Oh, okay.
+:mayhemUnmasked: $sad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      I just want to appear confident because I doubt myself a lot, that's all.
+:gf-balthazar: $normal-closed$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      That's fair. I'm sure we all have doubted ourselves before.
+:gf-balthazar: $normal-closed$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      I doubted that my parents would accept me dating Boyfriend.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Honestly, I had some doubts as well. I just didn't let my doubts get to me because I was too busy singing my heart out.
+:balthazarOnly: $YHP-normal-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      It's just human nature to feel doubtful, General.
+:balthazarOnly: $YHP-normal-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      What matters is knowing your strengths to overcome those doubts.
+:mayhemUnmasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Okay.
+:mayhemUnmasked-alt: $BrucePort$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #box_bruce# ^bruce_willis^ %0.75% !#ffffff! ?#000000? .. ~~      You guys are sounding really cheesy.
+:balthazarOnly: $YHP-unimpressed-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Not now, Bruce Willis. You're kind of ruining the mood.
+:mayhemUnmasked-alt: $BrucePort$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #box_bruce# ^bruce_willis^ %0.75% !#ffffff! ?#000000? .. ~~      Sorry.
+:mayhemUnmasked: $what-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.4; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      ...
+:mayhemUnmasked: $what-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      You know what?
+:mayhemUnmasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      I have an idea.
+:balthazarOnly: $YHP-normal-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      What's that?
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      I think I'll do the tough act when I introduce myself in Apocolypsburg, but I'll drop it when necessary.
+:balthazarOnly: $YHP-pleased-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      That sounds like a good idea.
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Yeah.
+:mayhemUnmasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      By the way, Boyfriend?
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      What's up?
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Can we sing one more song?
+:mayhemUnmasked: $please-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Pleeeeeeeeeeease?
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      I'm just having so much fun singing with you.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.4; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      ...
+:bf-lego: $determined$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Sure, why not?
+:mayhemUnmasked: $yay-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Yaaaaaaaaay!
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      Balthazar, give us a beat!
+:balthazarOnly: $YHP-normal-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Since that previous song was pretty intense, I chose a more upbeat and friendly pop song for this round.
+:mayhemUnmasked: $glad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_unmasked^ %1% !#FFFFFF! ?#000000? .. ~~      That should do the trick!

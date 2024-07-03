@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="0 GF portraits.png" width="1706" height="1260">
+  <SubTexture name="wink000" x="10" y="10"  width="354" height="400" frameX="-67" frameY="-46" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="sad000" x="10" y="430"  width="287" height="400" frameX="-101" frameY="-46" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="sad002" x="10" y="850"  width="287" height="400" frameX="-101" frameY="-46" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="sad004" x="317" y="430"  width="287" height="400" frameX="-101" frameY="-46" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="sad006" x="384" y="10"  width="287" height="400" frameX="-101" frameY="-46" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="side000" x="691" y="10"  width="292" height="399" frameX="-83" frameY="-47" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="yay000" x="1003" y="10"  width="397" height="398" frameX="-39" frameY="-48" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="front-closed000" x="1420" y="10"  width="276" height="398" frameX="-104" frameY="-48" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="front-open000" x="317" y="850"  width="276" height="398" frameX="-104" frameY="-48" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="intrigue000" x="613" y="850"  width="276" height="398" frameX="-104" frameY="-48" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="normal-closed000" x="624" y="430"  width="276" height="398" frameX="-104" frameY="-48" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="normal-open000" x="909" y="848"  width="276" height="398" frameX="-104" frameY="-48" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="peppy000" x="920" y="429"  width="276" height="398" frameX="-104" frameY="-48" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="unimpressed-front000" x="1216" y="428"  width="276" height="398" frameX="-104" frameY="-48" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="unimpressed000" x="1205" y="847"  width="276" height="398" frameX="-104" frameY="-48" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="sad001" x="10" y="430"  width="287" height="400" frameX="-101" frameY="-46" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="sad003" x="10" y="850"  width="287" height="400" frameX="-101" frameY="-46" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="sad005" x="317" y="430"  width="287" height="400" frameX="-101" frameY="-46" frameWidth="468" frameHeight="446"/>
+  <SubTexture name="sad007" x="384" y="10"  width="287" height="400" frameX="-101" frameY="-46" frameWidth="468" frameHeight="446"/>
+</TextureAtlas>

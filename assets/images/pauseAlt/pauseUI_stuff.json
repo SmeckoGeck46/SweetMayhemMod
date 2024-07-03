@@ -1,0 +1,10 @@
+{
+	"cancel_X": 742.4,
+	"cancel_Y": 526,
+	"cancel_unselected": "bluecancel",
+	"cancel_selected": "cancelyellow",
+	"replay_X": 358.4,
+	"replay_Y": 526,
+	"replay_unselected": "bluereplay",
+	"replay_selected": "yellowreplay"
+}

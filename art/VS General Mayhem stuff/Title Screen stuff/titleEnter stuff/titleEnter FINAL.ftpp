@@ -1,0 +1,981 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\Title Screen stuff\\titleEnter stuff",
+  "images": [
+    {
+      "name": "ENTER PRESSED0000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0000.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0001.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0001.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0002.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0002.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0003.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0003.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0004.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0004.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0005.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0005.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0006.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0006.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0007.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0007.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0008.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0008.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0009.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0009.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0010.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0010.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0011.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0011.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0012.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0012.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0013.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0013.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0014.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0014.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0015.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0015.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0016.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0016.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0017.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0017.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0018.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0018.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0019.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0019.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0020.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0020.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0021.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0021.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0022.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0022.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0023.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0023.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0024.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0024.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0025.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0025.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0026.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0026.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0027.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0027.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0028.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0028.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0029.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0029.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0030.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0030.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0031.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0031.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0032.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0032.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0033.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0033.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0034.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0034.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0035.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0035.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0036.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0036.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0037.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0037.png",
+      "folder": ""
+    },
+    {
+      "name": "ENTER PRESSED0038.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/ENTER PRESSED0038.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0000.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0001.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0001.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0002.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0002.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0003.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0003.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0004.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0004.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0005.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0005.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0006.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0006.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0007.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0007.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0008.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0008.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0009.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0009.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0010.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0010.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0011.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0011.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0012.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0012.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0013.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0013.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0014.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0014.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0015.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0015.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0016.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0016.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0017.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0017.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0018.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0018.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0019.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0019.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0020.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0020.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0021.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0021.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0022.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0022.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0023.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0023.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0024.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0024.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0025.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0025.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0026.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0026.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0027.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0027.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0028.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0028.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0029.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0029.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0030.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0030.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0031.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0031.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0032.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0032.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0033.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0033.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0034.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0034.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0035.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0035.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0036.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0036.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0037.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0037.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0038.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0038.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0039.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0039.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0040.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0040.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0041.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0041.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0042.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0042.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0043.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0043.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0044.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0044.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0045.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0045.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0046.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0046.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0047.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0047.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0048.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0048.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0049.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0049.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0050.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0050.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0051.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0051.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0052.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0052.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0053.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0053.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0054.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0054.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0055.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0055.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0056.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0056.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0057.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0057.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0058.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0058.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0059.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0059.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0060.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0060.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0061.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0061.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0062.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0062.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0063.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0063.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0064.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0064.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0065.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0065.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0066.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0066.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0067.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0067.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0068.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0068.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0069.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0069.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0070.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0070.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0071.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0071.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0072.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0072.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0073.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0073.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0074.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0074.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0075.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0075.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0076.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0076.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0077.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0077.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0078.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0078.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0079.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0079.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0080.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0080.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0081.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0081.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0082.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0082.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0083.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0083.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0084.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0084.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0085.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0085.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0086.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0086.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0087.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0087.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0088.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0088.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0089.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0089.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0090.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0090.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0091.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0091.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0092.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0092.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0093.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0093.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0094.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0094.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0095.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0095.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0096.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0096.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0097.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0097.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0098.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0098.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0099.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0099.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0100.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0100.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0101.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0101.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0102.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0102.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0103.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0103.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0104.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0104.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0105.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0105.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0106.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0106.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0107.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0107.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0108.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0108.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0109.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0109.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0110.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0110.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0111.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0111.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0112.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0112.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0113.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0113.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0114.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0114.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0115.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0115.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0116.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0116.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0117.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0117.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0118.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0118.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0119.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0119.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0120.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0120.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0121.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0121.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0122.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0122.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0123.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0123.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0124.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0124.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0125.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0125.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0126.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0126.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0127.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0127.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0128.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0128.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0129.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0129.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0130.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0130.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0131.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0131.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0132.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0132.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0133.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0133.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0134.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0134.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0135.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0135.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0136.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0136.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0137.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0137.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0138.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0138.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0139.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0139.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0140.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0140.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0141.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0141.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0142.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0142.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0143.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0143.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0144.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0144.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0145.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0145.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0146.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0146.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0147.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0147.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0148.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0148.png",
+      "folder": ""
+    },
+    {
+      "name": "Press Enter to Begin0149.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Title Screen stuff/titleEnter stuff/separate sprites/Press Enter to Begin0149.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "titleEnter FINAL",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "Starling",
+    "fileName": "pack-result",
+    "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\Title Screen stuff\\titleEnter stuff",
+    "width": 3600,
+    "height": 4800,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 11,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsPacker",
+    "packerMethod": "Smart"
+  }
+}

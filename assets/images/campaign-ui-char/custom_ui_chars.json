@@ -1,0 +1,9 @@
+{
+"bf":{"like":"bf","defaultGraphics":true},
+"gf":{"like":"gf","defaultGraphics":true},
+"nothing":{"like":"nothing","defaultGraphics":true},
+"bf-lego":{"like": "bf-lego","defaultGraphics":false},
+"gf-lego":{"like":"gf-lego","defaultGraphics":false},
+"chapter0":{"like":"chapter0","defaultGraphics":false},
+"chapter1":{"like":"chapter1","defaultGraphics":false}
+}

@@ -1,0 +1,60 @@
+trace("spoonful of salt");
+function init(char) {// char is a Character
+	if(char.isPlayer){ //player offsets
+		char.frames = FlxAtlasFrames.fromSparrow(hscriptPath + 'obamna_play.png', hscriptPath + 'obamna_play.xml');
+		char.animation.addByPrefix('idle', 'LP idle shark PLAY', 16, false);
+		char.animation.addByPrefix('singUP', 'LP up shark PLAY', 16, false);
+		char.animation.addByPrefix('singLEFT','LP left shark PLAY', 16, false);
+		char.animation.addByPrefix('singRIGHT', 'LP right shark PLAY', 16, false);
+		char.animation.addByPrefix('singDOWN', 'LP downward shark PLAY', 16, false);
+
+		char.followCamX = -225;
+		char.followCamY = 30;
+
+		char.addOffset('singUP',131,111);
+		char.addOffset('singRIGHT',-37,-3);
+		char.addOffset('singLEFT',77,-9);
+		char.addOffset('singDOWN',39,-63);
+
+	}else{ //opponent offsets
+	
+		char.frames = FlxAtlasFrames.fromSparrow(hscriptPath + 'SODA_FIGHT.png', hscriptPath + 'SODA_FIGHT.xml');
+		char.animation.addByPrefix('idle', 'LP idle shark FIGHT', 16, false);
+		char.animation.addByPrefix('singUP', 'LP up shark FIGHT', 16, false);
+		char.animation.addByPrefix('singLEFT','LP left shark FIGHT', 16, false);
+		char.animation.addByPrefix('singRIGHT', 'LP right shark FIGHT', 16, false);
+		char.animation.addByPrefix('singDOWN', 'LP downward shark FIGHT', 16, false);
+		char.followCamX = 69;
+		char.followCamY = -70;
+
+		char.addOffset('singUP',81,111);
+		char.addOffset('singRIGHT',23,-9);
+		char.addOffset('singLEFT',101,-3);
+		char.addOffset('singDOWN',319,-63);
+
+	}
+	
+	char.addOffset('idle',0);
+	char.playAnim('idle');
+
+	char.flipX = false;
+
+	char.enemyOffsetX = 0;
+	char.enemyOffsetY = 110;
+	char.playerOffsetX = 100;
+	char.playerOffsetY = -240;
+	char.camOffsetX = 50;
+	char.camOffsetY = -50;
+	char.enemyColor = 0xffd45f43;
+	char.playerColor = 0xffd45f43;
+}
+portraitOffset = [0, 0];
+dadVar = 6.1;
+isPixel = false;
+function update(elapsed, char) {}
+var danced = false;
+function dance(char) {
+	trace("the McChicken Pizza KANYE WEST");
+	char.playAnim('idle');
+}
+trace("In the notepad pootis");

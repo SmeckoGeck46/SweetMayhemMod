@@ -1,0 +1,33 @@
+{
+	"songs": [
+		["tutorial selected","Tutorial-Brickmix"],
+		["thingy for first chapter yall", "Sugar and Spice", "Boba","Sweet Mayhem"]
+	],
+	"weekNames": [
+		"Startin' the Spa Day",
+		"Meet General Mayhem"
+	],
+	"characters": [
+		["chapter0", "bf-lego", "gf-lego"],
+		["chapter1", "bf-lego", "gf-lego"]
+	],
+	"weeks": [
+		{
+			"songs":["Tutorial-Brickmix"],
+			"name":"Startin' the Spa Day",
+			"animation":"tutorial selected",
+			"dad":"chapter0",
+			"bf":"bf-lego",
+			"gf":"gf-lego"
+		},
+		{
+			"songs":["Sugar and Spice", "Boba", "Sweet Mayhem"],
+			"animation":"thingy for first chapter yall",
+			"name":"Meet General Mayhem","flags":["week0"],"visibleFlags":["week0"],
+			"dad":"chapter1",
+			"bf":"bf-lego",
+			"gf":"gf-lego"
+		}
+	],
+	"version":2
+}

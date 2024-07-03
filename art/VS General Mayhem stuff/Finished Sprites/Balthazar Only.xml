@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Balthazar Only.png" width="5687" height="6573">
+  <SubTexture name="gf balth sadness000" x="6" y="6"  width="1564" height="805" frameX="-118" frameY="-119" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left000" x="6" y="823"  width="1564" height="805" frameX="-118" frameY="-119" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz000" x="1582" y="6" width="805" height="1564" rotated="true"  frameX="-118" frameY="-119" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right000" x="6" y="1640"  width="1564" height="805" frameX="-118" frameY="-119" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left001" x="2399" y="6" width="808" height="1544" rotated="true"  frameX="-128" frameY="-116" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right001" x="1582" y="1582"  width="1544" height="808" frameX="-128" frameY="-116" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz001" x="6" y="2457"  width="1544" height="808" frameX="-128" frameY="-116" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness001" x="1562" y="2457"  width="1544" height="808" frameX="-128" frameY="-116" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness002" x="3219" y="6" width="811" height="1526" rotated="true"  frameX="-137" frameY="-113" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz002" x="3219" y="1544" width="811" height="1526" rotated="true"  frameX="-137" frameY="-113" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right002" x="6" y="3277"  width="1526" height="811" frameX="-137" frameY="-113" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left002" x="1544" y="3277"  width="1526" height="811" frameX="-137" frameY="-113" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left003" x="4042" y="6" width="813" height="1512" rotated="true"  frameX="-144" frameY="-111" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz003" x="4042" y="1530" width="813" height="1512" rotated="true"  frameX="-144" frameY="-111" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness003" x="3118" y="3082"  width="1512" height="813" frameX="-144" frameY="-111" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right003" x="6" y="4100"  width="1512" height="813" frameX="-144" frameY="-111" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz004" x="3082" y="3907"  width="1502" height="814" frameX="-149" frameY="-110" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness004" x="4867" y="6" width="814" height="1502" rotated="true"  frameX="-149" frameY="-110" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right004" x="4867" y="1520" width="814" height="1502" rotated="true"  frameX="-149" frameY="-110" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left004" x="4867" y="3034" width="814" height="1502" rotated="true"  frameX="-149" frameY="-110" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness005" x="6" y="4925"  width="1496" height="815" frameX="-152" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left005" x="1514" y="4925"  width="1496" height="815" frameX="-152" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right005" x="3022" y="4733"  width="1496" height="815" frameX="-152" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz005" x="6" y="5752"  width="1496" height="815" frameX="-152" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness006" x="1514" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left006" x="3018" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz006" x="4596" y="4548" width="814" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left007" x="3018" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left008" x="3018" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right006" x="3018" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right007" x="3018" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right008" x="3018" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness007" x="1514" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness008" x="1514" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness009" x="1514" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness010" x="1514" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness011" x="1514" y="5752"  width="1492" height="814" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz007" x="4596" y="4548" width="814" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz008" x="4596" y="4548" width="814" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz009" x="4596" y="4548" width="814" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz010" x="4596" y="4548" width="814" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz011" x="4596" y="4548" width="814" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz012" x="4596" y="4548" width="814" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz013" x="4596" y="4548" width="814" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+</TextureAtlas>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="0 masked portraits.png">
+<!-- Drawn in + additional edits in Krita, set up in Wick Editor -->
+<SubTexture name="default-fight0000" x="1167" y="0" width="425" height="361" frameX="-9" frameY="-107" frameWidth="715" frameHeight="448" />
+<SubTexture name="default-play0000" x="1167" y="361" width="425" height="361" frameX="-9" frameY="-107" frameWidth="715" frameHeight="448" />
+<SubTexture name="yay-fight0000" x="0" y="0" width="382" height="381" frameX="-30" frameY="-87" frameWidth="715" frameHeight="448" />
+<SubTexture name="yay-play0000" x="382" y="0" width="382" height="381" frameX="-30" frameY="-87" frameWidth="715" frameHeight="448" />
+<SubTexture name="explain-fight0000" x="0" y="381" width="382" height="381" frameX="-30" frameY="-87" frameWidth="715" frameHeight="448" />
+<SubTexture name="explain-play0000" x="382" y="381" width="382" height="381" frameX="-30" frameY="-87" frameWidth="715" frameHeight="448" />
+<SubTexture name="mad-fight0000" x="0" y="762" width="548" height="362" frameX="87" frameY="-106" frameWidth="715" frameHeight="448" />
+<SubTexture name="mad-play0000" x="548" y="762" width="548" height="362" frameX="87" frameY="-106" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-fight0000" x="1592" y="359" width="403" height="354" frameX="-4" frameY="-114" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-play0000" x="1592" y="713" width="403" height="354" frameX="-4" frameY="-114" frameWidth="715" frameHeight="448" />
+<SubTexture name="sad-fight0000" x="764" y="0" width="403" height="364" frameX="-4" frameY="-104" frameWidth="715" frameHeight="448" />
+<SubTexture name="sad-play0000" x="764" y="364" width="403" height="364" frameX="-4" frameY="-104" frameWidth="715" frameHeight="448" />
+<SubTexture name="shock-fight0000" x="1034" y="1124" width="464" height="359" frameX="-14" frameY="-109" frameWidth="715" frameHeight="448" />
+<SubTexture name="shock-play0000" x="1592" y="0" width="464" height="359" frameX="-14" frameY="-109" frameWidth="715" frameHeight="448" />
+<SubTexture name="shy-fight0000" x="0" y="1124" width="517" height="360" frameX="43" frameY="-108" frameWidth="715" frameHeight="448" />
+<SubTexture name="shy-play0000" x="517" y="1124" width="517" height="360" frameX="43" frameY="-108" frameWidth="715" frameHeight="448" />
+</TextureAtlas>

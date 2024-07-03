@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="HotTubBack.png">
+<!-- come out to the cost -->
+<!-- we'll have a few laughs -->
+<!-- sounds sweet -->
+<SubTexture name="bruce bop0000" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0001" x="1171" y="704" width="1171" height="702" frameX="-6" frameY="-7" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0002" x="2342" y="0" width="1171" height="695" frameX="-6" frameY="-14" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0003" x="1171" y="1407" width="1171" height="698" frameX="-6" frameY="-11" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0004" x="0" y="1407" width="1171" height="701" frameX="-6" frameY="-8" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0005" x="0" y="704" width="1171" height="703" frameX="-6" frameY="-6" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0006" x="1171" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0007" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0008" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0009" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0010" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0011" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0012" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0013" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0014" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+<SubTexture name="bruce bop0015" x="0" y="0" width="1171" height="704" frameX="-6" frameY="-5" frameWidth="1183" frameHeight="841" />
+</TextureAtlas>

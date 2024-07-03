@@ -1,0 +1,18 @@
+{
+"animationType": "gfIdle",
+"curName": null,
+"useIndices": false,
+"leftFrames": null,
+"rightFrames": null,
+"leftName": "mayhem menu bop left",
+"rightName": "mayhem menu bop right",
+"curX": 625,
+"curY": 75,
+"curFPS": 16,
+"shouldScale": true,
+"curScale": 1.2,
+"isPixel": false,
+"shouldWink": true,
+"winkName": "mayhem menu wink",
+"winkFPS": 16
+}

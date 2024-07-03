@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Custom BF sprite redo let's gooooooooooooooooooooo
+Also it was created with Free texture packer v0.6.7 let's gooooooooooooooooooooo http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="BF Lego TAKE 2.png" width="3884" height="2976">
+  <SubTexture name="BF Lego Up Miss001" x="10" y="10" width="500" height="319" rotated="true"  frameX="-140" frameY="-49" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark075" x="530" y="10" width="490" height="367" rotated="true"  frameX="-126" frameY="-57" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Shark000" x="10" y="349"  width="330" height="490" frameX="-139" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Miss001" x="1040" y="10"  width="351" height="489" frameX="-116" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Shark000" x="360" y="397"  width="347" height="489" frameX="-144" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Shark001" x="10" y="859"  width="327" height="489" frameX="-143" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Shark000" x="1411" y="10"  width="339" height="489" frameX="-141" frameY="-59" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Shark001" x="1770" y="10"  width="336" height="489" frameX="-140" frameY="-60" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Miss000" x="2126" y="10"  width="332" height="489" frameX="-139" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Miss002" x="2478" y="10"  width="331" height="489" frameX="-139" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Miss003" x="2829" y="10"  width="331" height="489" frameX="-139" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Miss004" x="2829" y="10"  width="331" height="489" frameX="-139" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Miss005" x="2829" y="10"  width="331" height="489" frameX="-139" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Miss006" x="2829" y="10"  width="331" height="489" frameX="-139" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Miss007" x="2829" y="10"  width="331" height="489" frameX="-139" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Shark002" x="3180" y="10"  width="325" height="489" frameX="-146" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Left Shark003" x="3525" y="10"  width="325" height="489" frameX="-146" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Miss001" x="727" y="519" width="488" height="359" rotated="true"  frameX="-147" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Miss002" x="1235" y="519" width="488" height="338" rotated="true"  frameX="-147" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Shark001" x="1743" y="519"  width="337" height="488" frameX="-147" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Shark002" x="357" y="906"  width="335" height="488" frameX="-139" frameY="-61" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Miss002" x="10" y="1368"  width="319" height="485" frameX="-140" frameY="-63" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Shark003" x="712" y="906"  width="334" height="487" frameX="-139" frameY="-62" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Shark002" x="1066" y="906"  width="330" height="487" frameX="-149" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Miss000" x="1416" y="877"  width="307" height="479" frameX="-144" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Miss000" x="1743" y="1027" width="487" height="329" rotated="true"  frameX="-149" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Shark003" x="2100" y="519" width="487" height="329" rotated="true"  frameX="-149" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark076" x="2250" y="868"  width="353" height="486" frameX="-125" frameY="-62" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Miss000" x="2607" y="519" width="483" height="312" rotated="true"  frameX="-139" frameY="-65" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego yaas queen004" x="2250" y="1374" width="479" height="449" rotated="true"  frameX="-87" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark074" x="2623" y="851" width="486" height="341" rotated="true"  frameX="-64" frameY="-61" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Miss002" x="3110" y="519" width="479" height="305" rotated="true"  frameX="-146" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego yaas queen000" x="712" y="1413"  width="404" height="485" frameX="-97" frameY="-64" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego yaas queen001" x="10" y="1873"  width="425" height="483" frameX="-92" frameY="-66" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego yaas queen002" x="10" y="2376" width="482" height="439" rotated="true"  frameX="-89" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark077" x="1136" y="1413"  width="345" height="483" frameX="-119" frameY="-65" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego yaas queen003" x="1501" y="1413"  width="446" height="481" frameX="-88" frameY="-68" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark003" x="2749" y="1212"  width="368" height="480" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark078" x="3129" y="844" width="480" height="342" rotated="true"  frameX="-113" frameY="-68" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark004" x="2749" y="1712"  width="368" height="480" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark005" x="1967" y="1843"  width="368" height="480" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark079" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark004" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark037" x="512" y="2306"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark038" x="1496" y="1916"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark039" x="2355" y="1843"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark040" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark002" x="2355" y="2342"  width="367" height="479" frameX="-84" frameY="-70" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark003" x="1884" y="2343"  width="367" height="479" frameX="-84" frameY="-70" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark002" x="1496" y="2415"  width="367" height="478" frameX="-84" frameY="-71" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark001" x="900" y="2600" width="477" height="366" rotated="true"  frameX="-85" frameY="-72" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark001" x="3137" y="1206"  width="366" height="476" frameX="-85" frameY="-73" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark000" x="3137" y="1702" width="474" height="365" rotated="true"  frameX="-86" frameY="-75" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Miss001" x="3523" y="1206"  width="336" height="464" frameX="-132" frameY="-84" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Shark003" x="3242" y="2087"  width="307" height="474" frameX="-144" frameY="-75" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Shark002" x="3242" y="2581" width="474" height="306" rotated="true"  frameX="-145" frameY="-75" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Shark001" x="3569" y="2087"  width="305" height="473" frameX="-146" frameY="-76" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Shark000" x="2742" y="2600" width="472" height="303" rotated="true"  frameX="-148" frameY="-78" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark000" x="3137" y="1702" width="474" height="365" rotated="true"  frameX="-86" frameY="-75" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark005" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark006" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark007" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark008" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark009" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark010" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark011" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark012" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark013" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark014" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark015" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark016" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark017" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark018" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark019" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark020" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark021" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark022" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark023" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark024" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark025" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark026" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark027" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark028" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark029" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark030" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark031" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark032" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark033" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark034" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark035" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark036" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark006" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark007" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark008" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark009" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark010" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark011" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark012" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Idle Shark013" x="455" y="1918" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark041" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark042" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark043" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark044" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark045" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark046" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark047" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark048" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark049" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark050" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark051" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark052" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark053" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark054" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark055" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark056" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark057" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark058" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark059" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark060" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark061" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark062" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark063" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark064" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark065" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark066" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark067" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark068" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark069" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark070" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark071" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark072" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark073" x="2743" y="2212" width="479" height="368" rotated="true"  frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark080" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark081" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark082" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark083" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark084" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark085" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark086" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark087" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark088" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Boba Shark089" x="1136" y="1916"  width="340" height="480" frameX="-111" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Miss003" x="3110" y="519" width="479" height="305" rotated="true"  frameX="-146" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Miss004" x="3110" y="519" width="479" height="305" rotated="true"  frameX="-146" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Miss005" x="3110" y="519" width="479" height="305" rotated="true"  frameX="-146" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Miss006" x="3110" y="519" width="479" height="305" rotated="true"  frameX="-146" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Down Miss007" x="3110" y="519" width="479" height="305" rotated="true"  frameX="-146" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Miss003" x="1235" y="519" width="488" height="338" rotated="true"  frameX="-147" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Miss004" x="1235" y="519" width="488" height="338" rotated="true"  frameX="-147" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Miss005" x="1235" y="519" width="488" height="338" rotated="true"  frameX="-147" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Miss006" x="1235" y="519" width="488" height="338" rotated="true"  frameX="-147" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Right Miss007" x="1235" y="519" width="488" height="338" rotated="true"  frameX="-147" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Miss003" x="10" y="1368"  width="319" height="485" frameX="-140" frameY="-63" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Miss004" x="10" y="1368"  width="319" height="485" frameX="-140" frameY="-63" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Miss005" x="10" y="1368"  width="319" height="485" frameX="-140" frameY="-63" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Miss006" x="10" y="1368"  width="319" height="485" frameX="-140" frameY="-63" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="BF Lego Up Miss007" x="10" y="1368"  width="319" height="485" frameX="-140" frameY="-63" frameWidth="565" frameHeight="564"/>
+</TextureAtlas>

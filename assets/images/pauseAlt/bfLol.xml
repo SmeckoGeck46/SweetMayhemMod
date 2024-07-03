@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bfLol.png" width="3592" height="3592">
+  <SubTexture name="mayhem decentsampler speeeen007" x="6" y="6" width="450" height="523" rotated="true"  frameX="-34" frameY="-20" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen018" x="6" y="541"  width="450" height="523" frameX="-105" frameY="-13" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen042" x="6" y="1076"  width="462" height="522" frameX="-37" frameY="-17" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen030" x="468" y="6" width="447" height="522" rotated="true"  frameX="-40" frameY="-86" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen029" x="468" y="540" width="473" height="520" rotated="true"  frameX="-37" frameY="-68" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen043" x="927" y="6"  width="443" height="520" frameX="-46" frameY="-22" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen008" x="6" y="1610" width="437" height="519" rotated="true"  frameX="-33" frameY="-30" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen019" x="6" y="2141"  width="437" height="519" frameX="-108" frameY="-12" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen031" x="6" y="2672" width="437" height="519" rotated="true"  frameX="-44" frameY="-87" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen006" x="455" y="1610" width="479" height="518" rotated="true"  frameX="-41" frameY="-11" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen017" x="480" y="1072"  width="479" height="518" frameX="-85" frameY="-20" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen044" x="953" y="538"  width="433" height="518" frameX="-55" frameY="-24" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen041" x="1382" y="6"  width="485" height="515" frameX="-31" frameY="-16" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen025" x="455" y="2140"  width="440" height="515" frameX="-57" frameY="-30" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen038" x="455" y="2667" width="453" height="514" rotated="true"  frameX="-30" frameY="-32" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen046" x="455" y="3193" width="491" height="393" rotated="true"  frameX="-83" frameY="-37" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen003" x="907" y="2140"  width="449" height="514" frameX="-92" frameY="-9" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen014" x="920" y="2666" width="449" height="514" rotated="true"  frameX="-52" frameY="-71" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen037" x="1381" y="2666" width="431" height="512" rotated="true"  frameX="-33" frameY="-42" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen010" x="1381" y="3190"  width="494" height="396" frameX="-45" frameY="-60" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen021" x="1887" y="3190" width="494" height="396" rotated="true"  frameX="-119" frameY="-24" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen032" x="946" y="1602" width="424" height="512" rotated="true"  frameX="-48" frameY="-89" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen026" x="1368" y="1068"  width="469" height="511" frameX="-49" frameY="-34" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen002" x="1824" y="533"  width="427" height="511" frameX="-102" frameY="-13" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen013" x="1879" y="6" width="427" height="511" rotated="true"  frameX="-51" frameY="-81" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen001" x="1398" y="533"  width="407" height="497" frameX="-106" frameY="-23" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen009" x="1368" y="2126" width="421" height="511" rotated="true"  frameX="-36" frameY="-43" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen020" x="1382" y="1591"  width="421" height="511" frameX="-111" frameY="-15" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen028" x="1801" y="2114" width="493" height="510" rotated="true"  frameX="-38" frameY="-53" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen024" x="1815" y="1591"  width="425" height="510" frameX="-68" frameY="-30" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen004" x="2252" y="1591"  width="479" height="508" frameX="-71" frameY="-9" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen015" x="1849" y="1056" width="479" height="508" rotated="true"  frameX="-58" frameY="-50" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen039" x="2263" y="529" width="479" height="508" rotated="true"  frameX="-30" frameY="-25" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen045" x="2743" y="6"  width="415" height="508" frameX="-68" frameY="-29" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen012" x="2318" y="6" width="407" height="497" rotated="true"  frameX="-55" frameY="-85" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen036" x="3170" y="6" width="416" height="503" rotated="true"  frameX="-40" frameY="-55" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen023" x="3170" y="521"  width="407" height="497" frameX="-83" frameY="-34" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen033" x="2754" y="526" width="404" height="498" rotated="true"  frameX="-55" frameY="-95" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen027" x="2340" y="1049"  width="492" height="505" frameX="-43" frameY="-42" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen035" x="3170" y="1030" width="395" height="486" rotated="true"  frameX="-51" frameY="-71" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen005" x="1824" y="2636" width="498" height="503" rotated="true"  frameX="-53" frameY="-8" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen016" x="2306" y="2111"  width="498" height="503" frameX="-69" frameY="-32" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen040" x="2743" y="1566"  width="501" height="501" frameX="-28" frameY="-19" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen034" x="2334" y="2626" width="391" height="478" rotated="true"  frameX="-64" frameY="-90" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen000" x="2393" y="3116" width="476" height="390" rotated="true"  frameX="-103" frameY="-39" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen011" x="2737" y="2626" width="390" height="476" rotated="true"  frameX="-60" frameY="-82" frameWidth="593" frameHeight="553"/>
+  <SubTexture name="mayhem decentsampler speeeen022" x="2816" y="2079"  width="390" height="476" frameX="-103" frameY="-39" frameWidth="593" frameHeight="553"/>
+</TextureAtlas>

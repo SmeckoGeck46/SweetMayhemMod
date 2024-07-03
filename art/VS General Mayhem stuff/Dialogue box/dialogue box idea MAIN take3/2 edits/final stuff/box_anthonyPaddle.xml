@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="box_anthonyPaddle.png" width="2472" height="1712">
+  <SubTexture name="normal000" x="10" y="10"  width="1216" height="430" frameX="-135" frameY="-322" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open006" x="10" y="10"  width="1216" height="430" frameX="-135" frameY="-322" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open005" x="1246" y="10"  width="1216" height="428" frameX="-135" frameY="-324" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open004" x="1246" y="458"  width="1216" height="423" frameX="-135" frameY="-329" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open003" x="10" y="460"  width="1216" height="414" frameX="-135" frameY="-338" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open002" x="10" y="894"  width="1216" height="402" frameX="-135" frameY="-350" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open001" x="10" y="1316"  width="1216" height="386" frameX="-135" frameY="-366" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open000" x="1246" y="901"  width="1216" height="367" frameX="-135" frameY="-385" frameWidth="1494" frameHeight="864"/>
+</TextureAtlas>

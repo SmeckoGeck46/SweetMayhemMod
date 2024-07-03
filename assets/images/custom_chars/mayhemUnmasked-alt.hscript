@@ -1,0 +1,80 @@
+trace("butt anger solo");
+//this character hscript is here so Mayhem's icons are swapped for the song "Sweet Mayhem"
+//also, this character houses the portraits for Bruce Willis as a workaround
+function init(char){
+	if(char.isDie){
+		char.frames = FlxAtlasFrames.fromSparrow('assets/images/custom_chars/mayhemUnmasked/GET_OOFED.png', 'assets/images/custom_chars/mayhemUnmasked/GET_OOFED.xml');
+		char.animation.addByIndices('firstDeath', 'Mayhem Oof Begin', [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39], "", 16, false);
+		char.animation.addByIndices('deathLoop', 'Mayhem Oof Loop', [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,12,13], "", 16, false);
+		char.animation.addByPrefix('deathConfirm', 'Mayhem Oof Ending', 16, false);
+		char.followCamX = -150;
+		char.followCamY = -200;
+		char.addOffset('firstDeath',0,70);
+		char.addOffset('deathLoop',0,70);
+		char.addOffset('deathConfirm',0,70);
+		char.flipX = true;
+	}else{
+	if(char.isPlayer){ //player offsets
+		char.frames = FlxAtlasFrames.fromSparrow('assets/images/custom_chars/mayhemUnmasked/play.png', 'assets/images/custom_chars/mayhemUnmasked/play.xml');
+		char.animation.addByPrefix('idle', 'Mayhem Play Idle Shark', 16, false);
+		char.animation.addByPrefix('singUP', 'Mayhem Play Up Shark', 16, false);
+		char.animation.addByPrefix('singLEFT','Mayhem Play Right Shark', 16, false);
+		char.animation.addByPrefix('singRIGHT', 'Mayhem Play Left Shark', 16, false);
+		char.animation.addByPrefix('singDOWN', 'Mayhem Play Down Shark', 16, false);
+		char.animation.addByPrefix('singUPmiss', 'Mayhem Play Up Miss', 16, false);
+		char.animation.addByPrefix('singLEFTmiss','Mayhem Play Right Miss', 16, false);
+		char.animation.addByPrefix('singRIGHTmiss', 'Mayhem Play Left Miss', 16, false);
+		char.animation.addByPrefix('singDOWNmiss', 'Mayhem Play Down Miss', 16, false);
+		char.followCamX = -150;
+		char.followCamY = 31;
+		char.addOffset('singUP', 60,-60);
+		char.addOffset('singRIGHT',60,-60);
+		char.addOffset('singLEFT', 60,-60);
+		char.addOffset('singDOWN',60,-60);
+		char.addOffset('singUPmiss', 60,-60);
+		char.addOffset('singRIGHTmiss',60,-60);
+		char.addOffset('singLEFTmiss', 60,-60);
+		char.addOffset('singDOWNmiss',60,-60);
+	}else{ //opponent offsets
+		char.frames = FlxAtlasFrames.fromSparrow('assets/images/custom_chars/mayhemUnmasked/fight.png', 'assets/images/custom_chars/mayhemUnmasked/fight.xml');
+		char.animation.addByPrefix('idle', 'Mayhem Fight Idle Shark', 16, false);
+		char.animation.addByPrefix('singUP', 'Mayhem Fight Up Shark', 16, false);
+		char.animation.addByPrefix('singLEFT','Mayhem Fight Right Shark', 16, false);
+		char.animation.addByPrefix('singRIGHT', 'Mayhem Fight Left Shark', 16, false);
+		char.animation.addByPrefix('singDOWN', 'Mayhem Fight Down Shark', 16, false);
+		char.followCamX = 200;
+		char.followCamY = -69;
+		char.addOffset('singUP',60,-60);
+		char.addOffset('singRIGHT',60,-60);
+		char.addOffset('singLEFT',60,-60);
+		char.addOffset('singDOWN',60,-60);
+	}
+	char.addOffset('idle', 60,-60);
+	char.playAnim('idle');
+	char.flipX = true;
+	char.enemyOffsetX = 0;
+	char.enemyOffsetY = 0;
+	char.playerOffsetX = 100;
+	char.playerOffsetY = -350;
+	char.midpointX = 0;
+	char.midpointY = 500;
+	char.camOffsetX = 100;
+	char.camOffsetY = 0;
+	switch(char.curCharacter){
+		case "mayhemMasked":
+			char.enemyColor = 0xFFD775AF;
+			char.playerColor = 0xFFD775AF;
+		default:
+			char.enemyColor = 0xFF64A5FE;
+			char.playerColor = 0xFF64A5FE;
+}}}
+dadVar = 6.1;
+isPixel = false;
+function update(elapsed, char) {}
+var danced = false;
+function dance(char) {
+	if (!StringTools.startsWith(char.animation.curAnim.name, 'hair')) {
+		trace("Bruno");
+		char.playAnim('idle');
+}}
+trace("the McChicken Pizza KANYE WEST");

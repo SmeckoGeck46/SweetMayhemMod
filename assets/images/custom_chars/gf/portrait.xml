@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="GF portrait.png"><SubTexture name="cheer0000" x="0" y="0" width="330" height="285" frameX="0" frameY="-3" frameWidth="330" frameHeight="285" />
+<SubTexture name="default-closed0000" x="330" y="0" width="330" height="285" frameX="0" frameY="-3" frameWidth="330" frameHeight="285" />
+<SubTexture name="default-open0000" x="660" y="0" width="330" height="285" frameX="0" frameY="-3" frameWidth="330" frameHeight="285" />
+<SubTexture name="duck0000" x="990" y="0" width="330" height="285" frameX="0" frameY="-3" frameWidth="330" frameHeight="285" />
+<SubTexture name="sad0000" x="0" y="285" width="330" height="285" frameX="0" frameY="-3" frameWidth="330" frameHeight="285" />
+<SubTexture name="scared0000" x="330" y="285" width="330" height="285" frameX="0" frameY="-3" frameWidth="330" frameHeight="285" />
+<SubTexture name="unimpressed0000" x="660" y="285" width="330" height="285" frameX="0" frameY="-3" frameWidth="330" frameHeight="285" />
+<SubTexture name="wink0000" x="990" y="285" width="330" height="285" frameX="0" frameY="-3" frameWidth="330" frameHeight="285" />
+</TextureAtlas>

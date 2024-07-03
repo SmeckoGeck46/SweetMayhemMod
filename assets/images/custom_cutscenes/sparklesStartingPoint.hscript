@@ -1,0 +1,83 @@
+/*function pigIntro(?dialogueBox:DialogueBox):Void //copied for reference
+	{
+		var forestFoilage:FlxSprite = new FlxSprite(-500, -300).loadGraphic(Paths.image('forestfoliage'));
+		forestFoilage.setGraphicSize(Std.int(forestFoilage.width * 0.9));
+		forestFoilage.updateHitbox();
+		forestFoilage.antialiasing = true;
+		forestFoilage.scrollFactor.set(1.3, 1.3);
+		forestFoilage.active = false;
+
+		var pigDed:FlxSprite = new FlxSprite();
+		pigDed.frames = Paths.getSparrowAtlas('pigomg/Pigroll', 'shared');
+		pigDed.animation.addByPrefix('pigRoll', 'Pig Roll', 24, false);
+		pigDed.setGraphicSize(Std.int(pigDed.width * 1.05));
+		pigDed.scrollFactor.set();
+		pigDed.updateHitbox();
+
+		var black:FlxSprite = new FlxSprite(-100, -100).makeGraphic(FlxG.width * 2, FlxG.height * 2, FlxColor.BLACK);
+		black.scrollFactor.set();
+		add(black);
+
+		inCutscene = true;
+
+		camFollow.x += 600;
+		camFollow.y += 200;
+		FlxG.camera.focusOn(camFollow.getPosition());
+
+		camHUD.visible = false;
+
+		if (dad.curCharacter == 'pig')
+			{
+				dad.alpha = 0;
+			    FlxG.sound.play(Paths.sound('pigHurt'));
+			}
+
+		new FlxTimer().start(1, function(swagTimer:FlxTimer)
+			{
+				boyfriend.playAnim('singUP');
+				FlxG.sound.play(Paths.sound('dah'));
+				new FlxTimer().start(1.5, function(swagTimer:FlxTimer)
+					{
+						boyfriend.playAnim('scared');
+					});
+			});
+		
+		new FlxTimer().start(2, function(swagTimer:FlxTimer)
+			{
+				gf.playAnim('cheer');
+				FlxG.sound.play(Paths.sound('GF_3'));
+				new FlxTimer().start(0.5, function(swagTimer:FlxTimer)
+					{
+						gf.playAnim('scared');
+					});
+			});
+
+        FlxTween.tween(black,{alpha: 0}, 2.5, {
+			onComplete: function(twn:FlxTween)
+			{
+				camFollow.x += -300;
+				new FlxTimer().start(5, function(swagTimer:FlxTimer)
+					{
+						add(pigDed);
+						pigDed.x = -210;
+						pigDed.y = 350;
+						add(forestFoilage);
+						pigDed.animation.play('pigRoll');
+					});
+
+				new FlxTimer().start(12, function(swagTimer:FlxTimer)
+				{
+					remove(forestFoilage);
+					remove(pigDed);
+					dad.alpha = 1;
+					remove(black);
+					camHUD.visible = true;
+					add(currentPlayState.doof);
+				});
+			}
+		});
+	}*/
+
+function start(song) { //stuffish stuff
+
+}

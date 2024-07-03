@@ -1,72 +1,95 @@
 package;
 
 import flixel.FlxSprite;
-import openfl.utils.Assets as OpenFlAssets;
+import lime.utils.Assets;
+import lime.system.System;
+import flash.display.BitmapData;
+#if sys
+import sys.io.File;
+import haxe.io.Path;
+import openfl.utils.ByteArray;
 
+import sys.FileSystem;
+#end
+import haxe.Json;
+import haxe.format.JsonParser;
+import tjson.TJSON;
 using StringTools;
-
-class HealthIcon extends FlxSprite
-{
+enum abstract IconState(Int) from Int to Int {
+	var Normal;
+	var Dying;
+	var Poisoned;
+	var Winning;
+}
+class HealthIcon extends FlxSprite{
+	var player:Bool = false;
 	public var sprTracker:FlxSprite;
-	private var isOldIcon:Bool = false;
-	private var isPlayer:Bool = false;
-	private var char:String = '';
-
-	public function new(char:String = 'bf', isPlayer:Bool = false)
-	{
-		super();
-		isOldIcon = (char == 'bf-old');
-		this.isPlayer = isPlayer;
-		changeIcon(char);
-		scrollFactor.set();
+	public var iconState(default, set):IconState = Normal;
+	function set_iconState(x:IconState):IconState {
+		switch (x) {
+			case Normal:
+				animation.curAnim.curFrame = 0;
+			case Dying:
+				// if we set it out of bounds it doesn't realy matter as it goes to normal anyway
+				animation.curAnim.curFrame = 1;
+			case Poisoned:
+				// same deal it will go to dying which is good enough
+				animation.curAnim.curFrame = 2;
+			case Winning:
+				// we DO do it here here we want to make sure it isn't silly
+				if (animation.curAnim.frames.length >= 4) {
+					animation.curAnim.curFrame = 3;
+				} else {
+					animation.curAnim.curFrame = 0;
+				}
+		}
+		return iconState = x;
 	}
+	public function new(char:String = 'bf', isPlayer:Bool = false){
+		player = isPlayer;
+		super();
+		antialiasing = true;
+		switchAnim(char);
+		scrollFactor.set();
 
-	override function update(elapsed:Float)
-	{
+	}
+	public function switchAnim(char:String = 'bf') {
+		var charJson:Dynamic = CoolUtil.parseJson(FNFAssets.getJson("assets/images/custom_chars/custom_chars"));
+		var iconJson:Dynamic = CoolUtil.parseJson(FNFAssets.getJson("assets/images/custom_chars/icon_only_chars"));
+		var iconFrames:Array<Int> = [];
+		var rawPic:BitmapData;
+		if (Reflect.hasField(charJson, char)){
+			iconFrames = Reflect.field(charJson, char).icons;
+		} else if (Reflect.hasField(iconJson, char)){
+			iconFrames = Reflect.field(iconJson, char).frames;
+		}else{
+			iconFrames = [0, 0, 0, 0];
+		}
+		if (FNFAssets.exists('assets/images/custom_chars/' + char + "/icons.png")) {
+			rawPic = FNFAssets.getBitmapData('assets/images/custom_chars/' + char + "/icons.png");
+			loadGraphic(rawPic, true, 150, 150);
+			animation.add('icon', iconFrames, false, player);
+		} else if (FNFAssets.exists('assets/images/custom_chars/' + char + "/icons-play.png") && player) {
+			//player icons only
+			rawPic = FNFAssets.getBitmapData('assets/images/custom_chars/' + char + "/icons-play.png");
+			loadGraphic(rawPic, true, 150, 150);
+			animation.add('icon', iconFrames, false, player);
+		} else if (FNFAssets.exists('assets/images/custom_chars/' + char + "/icons-fight.png") && !player) {
+			//opponent icons only
+			rawPic = FNFAssets.getBitmapData('assets/images/custom_chars/' + char + "/icons-fight.png");
+			loadGraphic(rawPic, true, 150, 150);
+			animation.add('icon', iconFrames, false, player);
+		} else {
+			loadGraphic('assets/images/iconGrid.png', true, 150, 150);
+			animation.add('icon', iconFrames, false, player);
+		}
+		animation.play('icon');
+		animation.pause();
+	}
+	override function update(elapsed:Float){
 		super.update(elapsed);
 
 		if (sprTracker != null)
 			setPosition(sprTracker.x + sprTracker.width + 10, sprTracker.y - 30);
-	}
-
-	public function swapOldIcon() {
-		if(isOldIcon = !isOldIcon) changeIcon('bf-old');
-		else changeIcon('bf');
-	}
-
-	private var iconOffsets:Array<Float> = [0, 0];
-	public function changeIcon(char:String) {
-		if(this.char != char) {
-			var name:String = 'icons/' + char;
-			if(!Paths.fileExists('images/' + name + '.png', IMAGE)) name = 'icons/icon-' + char; //Older versions of psych engine's support
-			if(!Paths.fileExists('images/' + name + '.png', IMAGE)) name = 'icons/icon-face'; //Prevents crash from missing icon
-			var file:Dynamic = Paths.image(name);
-
-			loadGraphic(file); //Load stupidly first for getting the file size
-			loadGraphic(file, true, Math.floor(width / 2), Math.floor(height)); //Then load it fr
-			iconOffsets[0] = (width - 150) / 2;
-			iconOffsets[1] = (width - 150) / 2;
-			updateHitbox();
-
-			animation.add(char, [0, 1], 0, false, isPlayer);
-			animation.play(char);
-			this.char = char;
-
-			antialiasing = ClientPrefs.globalAntialiasing;
-			if(char.endsWith('-pixel')) {
-				antialiasing = false;
-			}
-		}
-	}
-
-	override function updateHitbox()
-	{
-		super.updateHitbox();
-		offset.x = iconOffsets[0];
-		offset.y = iconOffsets[1];
-	}
-
-	public function getCharacter():String {
-		return char;
 	}
 }

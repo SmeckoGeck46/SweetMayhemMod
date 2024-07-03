@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="gfDanceTitle.png">
+<!-- Drawn in + additional edits in Krita, animated in Wick Editor -->
+<SubTexture name="mayhem menu bop left0000" x="2649" y="0" width="479" height="698" frameX="-133" frameY="-30" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop left0001" x="2189" y="0" width="460" height="699" frameX="-142" frameY="-29" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop left0002" x="2189" y="699" width="446" height="699" frameX="-149" frameY="-29" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop left0003" x="2189" y="1398" width="437" height="699" frameX="-152" frameY="-29" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop left0004" x="1753" y="703" width="436" height="701" frameX="-150" frameY="-27" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop left0005" x="1418" y="1413" width="434" height="701" frameX="-150" frameY="-26" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop right0000" x="0" y="1413" width="479" height="702" frameX="-133" frameY="-26" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop right0001" x="479" y="1413" width="460" height="702" frameX="-142" frameY="-26" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop right0002" x="460" y="709" width="446" height="703" frameX="-149" frameY="-25" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop right0003" x="906" y="709" width="437" height="703" frameX="-152" frameY="-25" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop right0004" x="1753" y="0" width="436" height="703" frameX="-150" frameY="-25" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu bop right0005" x="1418" y="1413" width="434" height="701" frameX="-150" frameY="-26" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu wink0000" x="939" y="1413" width="479" height="702" frameX="-133" frameY="-26" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu wink0001" x="0" y="709" width="460" height="704" frameX="-142" frameY="-24" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu wink0002" x="1307" y="0" width="446" height="707" frameX="-149" frameY="-21" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu wink0003" x="436" y="0" width="437" height="708" frameX="-152" frameY="-20" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu wink0004" x="0" y="0" width="436" height="709" frameX="-150" frameY="-19" frameWidth="715" frameHeight="733" />
+<SubTexture name="mayhem menu wink0005" x="873" y="0" width="434" height="708" frameX="-150" frameY="-19" frameWidth="715" frameHeight="733" />
+</TextureAtlas>

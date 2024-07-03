@@ -1,0 +1,106 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\BF sprites\\portraits\\final portraits",
+  "images": [
+    {
+      "name": "confused000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/confused000.png",
+      "folder": ""
+    },
+    {
+      "name": "default000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/default000.png",
+      "folder": ""
+    },
+    {
+      "name": "determined000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/determined000.png",
+      "folder": ""
+    },
+    {
+      "name": "happy000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/happy000.png",
+      "folder": ""
+    },
+    {
+      "name": "intrigue000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/intrigue000.png",
+      "folder": ""
+    },
+    {
+      "name": "oof000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/oof000.png",
+      "folder": ""
+    },
+    {
+      "name": "scared000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/scared000.png",
+      "folder": ""
+    },
+    {
+      "name": "scared001.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/scared001.png",
+      "folder": ""
+    },
+    {
+      "name": "scared002.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/scared002.png",
+      "folder": ""
+    },
+    {
+      "name": "scared003.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/scared003.png",
+      "folder": ""
+    },
+    {
+      "name": "shock000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/shock000.png",
+      "folder": ""
+    },
+    {
+      "name": "smug000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/smug000.png",
+      "folder": ""
+    },
+    {
+      "name": "unimpressed000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/unimpressed000.png",
+      "folder": ""
+    },
+    {
+      "name": "yay000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/BF sprites/portraits/final portraits/yay000.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "0 BF portraits",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "Starling",
+    "fileName": "pack-result",
+    "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\BF sprites\\portraits\\final portraits",
+    "width": 2048,
+    "height": 1600,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 10,
+    "extrude": 0,
+    "allowRotation": false,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "OptimalPacker",
+    "packerMethod": "Automatic"
+  }
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="save-data.png" width="296" height="296">
+  <SubTexture name="save file0000" x="10" y="10"  width="244" height="150" frameX="-0" frameY="-0" frameWidth="244" frameHeight="150"/>
+  <SubTexture name="delete confirm0000" x="10" y="180" width="26" height="106" rotated="true"  frameX="-0" frameY="-0" frameWidth="106" frameHeight="26"/>
+  <SubTexture name="left arrow0000" x="274" y="10"  width="12" height="21" frameX="-0" frameY="-0" frameWidth="12" frameHeight="21"/>
+  <SubTexture name="right arrow0000" x="274" y="51"  width="12" height="21" frameX="-0" frameY="-0" frameWidth="12" frameHeight="21"/>
+  <SubTexture name="delete0000" x="56" y="180" width="24" height="92" rotated="true"  frameX="-0" frameY="-0" frameWidth="93" frameHeight="24"/>
+  <SubTexture name="load0000" x="100" y="180" width="25" height="46" rotated="true"  frameX="-0" frameY="-0" frameWidth="46" frameHeight="25"/>
+  <SubTexture name="deleted0000" x="100" y="246"  width="113" height="26" frameX="-0" frameY="-0" frameWidth="113" frameHeight="26"/>
+  <SubTexture name="deletea0000" x="56" y="180" width="24" height="92" rotated="true"  frameX="-0" frameY="-0" frameWidth="93" frameHeight="24"/>
+</TextureAtlas>

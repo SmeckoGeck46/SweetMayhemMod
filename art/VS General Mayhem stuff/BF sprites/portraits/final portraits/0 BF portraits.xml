@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+also this texture packer is very convenient for regenerating the same spritesheet
+-->
+<TextureAtlas imagePath="0 BF portraits.png" width="1272" height="1344">
+  <SubTexture name="yay000" x="10" y="10"  width="439" height="316" frameX="56" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="scared000" x="10" y="682"  width="337" height="316" frameX="17" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="scared001" x="10" y="682"  width="337" height="316" frameX="17" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="scared002" x="10" y="346"  width="337" height="316" frameX="17" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="scared003" x="10" y="346"  width="337" height="316" frameX="17" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="scared004" x="469" y="10"  width="337" height="316" frameX="17" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="scared005" x="469" y="10"  width="337" height="316" frameX="17" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="scared006" x="367" y="346"  width="337" height="316" frameX="17" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="scared007" x="367" y="346"  width="337" height="316" frameX="17" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="oof000" x="367" y="682"  width="285" height="316" frameX="-26" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="intrigue000" x="672" y="682"  width="285" height="316" frameX="-26" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="default000" x="724" y="346"  width="285" height="316" frameX="-26" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="happy000" x="826" y="10"  width="285" height="316" frameX="-26" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="determined000" x="10" y="1018"  width="285" height="316" frameX="-26" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="shock000" x="315" y="1018"  width="285" height="316" frameX="-26" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="smug000" x="620" y="1018"  width="285" height="316" frameX="-26" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="unimpressed000" x="925" y="1018"  width="285" height="316" frameX="-26" frameY="-69" frameWidth="480" frameHeight="385"/>
+  <SubTexture name="confused000" x="977" y="682"  width="285" height="316" frameX="-26" frameY="-69" frameWidth="480" frameHeight="385"/>
+</TextureAtlas>

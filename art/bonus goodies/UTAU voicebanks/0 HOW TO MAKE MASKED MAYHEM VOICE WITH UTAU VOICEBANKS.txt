@@ -1,0 +1,10 @@
+HOW TO MAKE MASKED MAYHEM'S VOICE USING UTAU VOICEBANKS:
+
+1) Make a track using the unmasked voicebank.
+2) Make two tracks using the masked voicebank. One track should be the main octave, the other should be lowered by 1 octave.
+3) Make the unmasked voicebank track -6 dB when editing in post.
+4) Profit.
+
+If you use OpenUtau, you can do all of this in one project. If you are using UTAU, which limits to only 1 voicebank track per file, then you'll have to either save 3 different UTAU projects or render every track through one project.
+
+If you just want to make an UTAU voicebank using samples from the chromatic scale because you think this process is too complicated, be my guest.

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="Mayhem Masked Play Lose" width="6394" height="6092">
+  <SubTexture name="Mayhem Oof Ending006" x="10" y="10"  width="693" height="814" frameX="-22" frameY="-21" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending007" x="10" y="844"  width="693" height="814" frameX="-22" frameY="-21" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending005" x="10" y="1678"  width="693" height="811" frameX="-22" frameY="-24" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending008" x="10" y="2509"  width="687" height="810" frameX="-22" frameY="-25" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending004" x="10" y="3339"  width="693" height="807" frameX="-22" frameY="-28" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending003" x="717" y="2509"  width="693" height="800" frameX="-22" frameY="-34" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending009" x="10" y="4166"  width="660" height="795" frameX="-22" frameY="-40" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending002" x="10" y="4981"  width="693" height="794" frameX="-22" frameY="-40" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending001" x="690" y="4166"  width="693" height="786" frameX="-22" frameY="-48" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending000" x="723" y="3329"  width="673" height="785" frameX="-13" frameY="-50" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin030" x="723" y="4972"  width="620" height="759" frameX="-22" frameY="-76" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin020" x="1363" y="4972"  width="535" height="759" frameX="-17" frameY="-76" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin024" x="1403" y="4134"  width="533" height="759" frameX="-22" frameY="-76" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin031" x="1416" y="3329"  width="619" height="752" frameX="-22" frameY="-83" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin025" x="1918" y="4913"  width="533" height="752" frameX="-22" frameY="-83" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin021" x="1956" y="4101"  width="515" height="752" frameX="-19" frameY="-83" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin026" x="2471" y="4873"  width="577" height="747" frameX="-22" frameY="-88" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin022" x="723" y="10"  width="500" height="747" frameX="-20" frameY="-88" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin028" x="723" y="777"  width="620" height="746" frameX="-22" frameY="-89" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin029" x="1243" y="10"  width="620" height="744" frameX="-22" frameY="-91" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin019" x="723" y="1543"  width="555" height="744" frameX="-14" frameY="-91" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin023" x="1298" y="1543"  width="498" height="744" frameX="-21" frameY="-91" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin027" x="1363" y="774"  width="577" height="740" frameX="-22" frameY="-95" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop000" x="1883" y="10"  width="649" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop001" x="1430" y="2307"  width="643" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop002" x="1816" y="1534"  width="637" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop003" x="2055" y="769"  width="632" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop004" x="2552" y="10"  width="628" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop005" x="2055" y="3066"  width="624" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop006" x="2093" y="2293"  width="622" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin032" x="2699" y="1528"  width="620" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin033" x="3068" y="769"  width="620" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin034" x="3339" y="10"  width="620" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin035" x="3979" y="10"  width="620" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop007" x="2491" y="3825"  width="620" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin036" x="2699" y="3052"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin037" x="3068" y="2287"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin038" x="3339" y="1528"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin039" x="3708" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin040" x="3068" y="4584"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin041" x="3068" y="5343"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin042" x="3707" y="5343"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin043" x="3131" y="3811"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin044" x="3338" y="3046"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin045" x="3770" y="2287"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin046" x="4409" y="2287"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin047" x="3978" y="1528"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin048" x="4347" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin049" x="4619" y="10"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin050" x="4617" y="1528"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin051" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending010" x="5258" y="10"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin018" x="5687" y="769" width="697" height="570" rotated="true"  frameX="-11" frameY="-138" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin016" x="5687" y="1359" width="635" height="567" rotated="true"  frameX="-17" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin010" x="3707" y="4570"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin011" x="3770" y="3805"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin012" x="4346" y="3046"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin013" x="4931" y="3046"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin014" x="5048" y="2287"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin015" x="5633" y="1946" width="635" height="565" rotated="true"  frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin03" x="5633" y="2531" width="635" height="565" rotated="true"  frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin04" x="5633" y="3116" width="635" height="565" rotated="true"  frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin05" x="4292" y="4460"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin06" x="4355" y="3701"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin07" x="4346" y="5115"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin08" x="4877" y="4356"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin09" x="4940" y="3701"  width="565" height="635" frameX="-18" frameY="-200" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin017" x="5525" y="3701" width="634" height="578" rotated="true"  frameX="-7" frameY="-201" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin01" x="5525" y="4299" width="634" height="568" rotated="true"  frameX="-14" frameY="-202" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin02" x="5462" y="4887" width="634" height="567" rotated="true"  frameX="-16" frameY="-201" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Begin00" x="5462" y="5474" width="631" height="566" rotated="true"  frameX="-13" frameY="-205" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop010" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop011" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop012" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop013" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop014" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop015" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop016" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop017" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop018" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop019" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop020" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop021" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop022" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop023" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop024" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop025" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop026" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop027" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop028" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop029" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop030" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop031" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop008" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Loop009" x="5048" y="769"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending0011" x="5258" y="10"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending0012" x="5258" y="10"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending0013" x="5258" y="10"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending0014" x="5258" y="10"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+  <SubTexture name="Mayhem Oof Ending0015" x="5258" y="10"  width="619" height="739" frameX="-22" frameY="-96" frameWidth="715" frameHeight="845"/>
+</TextureAtlas>

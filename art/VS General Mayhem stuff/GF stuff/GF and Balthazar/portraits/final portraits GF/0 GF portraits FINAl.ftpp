@@ -1,0 +1,131 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\GF stuff\\GF and Balthazar\\portraits\\final portraits GF",
+  "images": [
+    {
+      "name": "front-closed000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/front-closed000.png",
+      "folder": ""
+    },
+    {
+      "name": "front-open000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/front-open000.png",
+      "folder": ""
+    },
+    {
+      "name": "intrigue000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/intrigue000.png",
+      "folder": ""
+    },
+    {
+      "name": "normal-closed000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/normal-closed000.png",
+      "folder": ""
+    },
+    {
+      "name": "normal-open000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/normal-open000.png",
+      "folder": ""
+    },
+    {
+      "name": "peppy000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/peppy000.png",
+      "folder": ""
+    },
+    {
+      "name": "sad000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/sad000.png",
+      "folder": ""
+    },
+    {
+      "name": "sad001.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/sad001.png",
+      "folder": ""
+    },
+    {
+      "name": "sad002.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/sad002.png",
+      "folder": ""
+    },
+    {
+      "name": "sad003.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/sad003.png",
+      "folder": ""
+    },
+    {
+      "name": "sad004.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/sad004.png",
+      "folder": ""
+    },
+    {
+      "name": "sad005.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/sad005.png",
+      "folder": ""
+    },
+    {
+      "name": "sad006.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/sad006.png",
+      "folder": ""
+    },
+    {
+      "name": "sad007.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/sad007.png",
+      "folder": ""
+    },
+    {
+      "name": "side000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/side000.png",
+      "folder": ""
+    },
+    {
+      "name": "unimpressed-front000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/unimpressed-front000.png",
+      "folder": ""
+    },
+    {
+      "name": "unimpressed000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/unimpressed000.png",
+      "folder": ""
+    },
+    {
+      "name": "wink000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/wink000.png",
+      "folder": ""
+    },
+    {
+      "name": "yay000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/portraits/final portraits GF/yay000.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "0 GF portraits",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "Starling",
+    "fileName": "pack-result",
+    "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\GF stuff\\GF and Balthazar\\portraits\\final portraits GF",
+    "width": 2048,
+    "height": 1300,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 10,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

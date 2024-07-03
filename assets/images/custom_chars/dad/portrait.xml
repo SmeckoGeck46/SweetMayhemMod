@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+also this is just for testing
+-->
+<TextureAtlas imagePath="portrait.png" width="1300" height="1480">
+  <SubTexture name="TestImage10000" x="10" y="10"  width="1280" height="720" frameX="700" frameY="-279" frameWidth="1280" frameHeight="720"/>
+  <SubTexture name="TestImage20000" x="10" y="750"  width="1280" height="720" frameX="700" frameY="-279" frameWidth="1280" frameHeight="720"/>
+</TextureAtlas>

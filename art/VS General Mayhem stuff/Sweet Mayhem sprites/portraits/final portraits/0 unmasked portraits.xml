@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="0 unmasked portraits.png">
+<!-- Drawn in + additional edits in Krita, set up in Wick Editor, text edits in Notepad++ -->
+<SubTexture name="default-fight0000" x="2493" y="1630" width="425" height="401" frameX="-9" frameY="-67" frameWidth="715" frameHeight="448" />
+<SubTexture name="default-play0000" x="2493" y="409" width="425" height="407" frameX="-9" frameY="-61" frameWidth="715" frameHeight="448" />
+<SubTexture name="what-fight0000" x="425" y="2115" width="425" height="401" frameX="-9" frameY="-67" frameWidth="715" frameHeight="448" />
+<SubTexture name="what-play0000" x="2493" y="1223" width="425" height="407" frameX="-9" frameY="-61" frameWidth="715" frameHeight="448" />
+<SubTexture name="yay-fight0000" x="1594" y="852" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="yay-play0000" x="403" y="0" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="glad-fight0000" x="1096" y="1290" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="glad-play0000" x="800" y="0" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="explain-fight0000" x="1511" y="1290" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="explain-play0000" x="0" y="432" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="mad-fight0000" x="0" y="1290" width="548" height="414" frameX="87" frameY="-54" frameWidth="715" frameHeight="448" />
+<SubTexture name="mad-play0000" x="548" y="1290" width="548" height="412" frameX="87" frameY="-56" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-fight0000" x="932" y="1704" width="453" height="409" frameX="-4" frameY="-59" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-fight0001" x="932" y="1704" width="453" height="409" frameX="-4" frameY="-59" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-fight0002" x="1385" y="1704" width="453" height="409" frameX="-4" frameY="-59" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-fight0003" x="1385" y="1704" width="453" height="409" frameX="-4" frameY="-59" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-fight0004" x="1838" y="1704" width="453" height="409" frameX="-4" frameY="-59" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-fight0005" x="1838" y="1704" width="453" height="409" frameX="-4" frameY="-59" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-fight0006" x="2493" y="0" width="453" height="409" frameX="-4" frameY="-59" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-fight0007" x="2493" y="0" width="453" height="409" frameX="-4" frameY="-59" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-play0000" x="0" y="862" width="435" height="428" frameX="-4" frameY="-40" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-play0001" x="0" y="862" width="435" height="428" frameX="-4" frameY="-40" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-play0002" x="435" y="862" width="435" height="428" frameX="-4" frameY="-40" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-play0003" x="435" y="862" width="435" height="428" frameX="-4" frameY="-40" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-play0004" x="870" y="862" width="435" height="428" frameX="-4" frameY="-40" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-play0005" x="870" y="862" width="435" height="428" frameX="-4" frameY="-40" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-play0006" x="1594" y="0" width="435" height="428" frameX="-4" frameY="-40" frameWidth="715" frameHeight="448" />
+<SubTexture name="mope-play0007" x="1594" y="0" width="435" height="428" frameX="-4" frameY="-40" frameWidth="715" frameHeight="448" />
+<SubTexture name="sad-fight0000" x="0" y="0" width="403" height="432" frameX="-4" frameY="-36" frameWidth="715" frameHeight="448" />
+<SubTexture name="sad-play0000" x="1594" y="428" width="404" height="424" frameX="-3" frameY="-44" frameWidth="715" frameHeight="448" />
+<SubTexture name="shock-fight0000" x="1367" y="2115" width="464" height="398" frameX="-14" frameY="-70" frameWidth="715" frameHeight="448" />
+<SubTexture name="shock-play0000" x="2029" y="0" width="464" height="411" frameX="-14" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-fight0000" x="2029" y="411" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-fight0001" x="2029" y="411" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-fight0002" x="2029" y="822" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-fight0003" x="2029" y="822" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-fight0004" x="2029" y="1233" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-fight0005" x="2029" y="1233" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-fight0006" x="0" y="1704" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-fight0007" x="0" y="1704" width="415" height="411" frameX="-30" frameY="-57" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-play0000" x="397" y="432" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-play0001" x="397" y="432" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-play0002" x="794" y="432" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-play0003" x="794" y="432" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-play0004" x="1197" y="0" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-play0005" x="1197" y="0" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-play0006" x="1197" y="430" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="please-play0007" x="1197" y="430" width="397" height="430" frameX="-30" frameY="-38" frameWidth="715" frameHeight="448" />
+<SubTexture name="shy-fight0000" x="850" y="2115" width="517" height="399" frameX="43" frameY="-69" frameWidth="715" frameHeight="448" />
+<SubTexture name="shy-play0000" x="415" y="1704" width="517" height="410" frameX="43" frameY="-58" frameWidth="715" frameHeight="448" />
+<SubTexture name="Sheridan Cum-fight0000" x="0" y="2115" width="425" height="401" frameX="-9" frameY="-67" frameWidth="715" frameHeight="448" />
+<SubTexture name="Sheridan Cum-play0000" x="2493" y="816" width="425" height="407" frameX="-9" frameY="-61" frameWidth="715" frameHeight="448" />
+</TextureAtlas>

@@ -1,0 +1,10 @@
+{
+  "animation": {
+    "idle": "1 bf lego idle",
+    "bfConfirm": "2 bf lego yay"
+  },
+  "scale": 0.75,
+  "frameRate": 16,
+  "flipX": false,
+  "offset": [-80, -40]
+}

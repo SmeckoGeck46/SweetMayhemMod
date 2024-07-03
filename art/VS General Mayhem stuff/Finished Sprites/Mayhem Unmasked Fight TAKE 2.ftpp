@@ -1,0 +1,37 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\Finished Sprites",
+  "images": [],
+  "folders": [
+    "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/Sweet Mayhem sprites/separate sprites/Unmasked Take 2/Fight"
+  ],
+  "packOptions": {
+    "textureName": "Mayhem Unmasked Fight TAKE 2",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "Starling",
+    "fileName": "pack-result",
+    "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\Finished Sprites",
+    "width": 3477,
+    "height": 2372,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 7,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

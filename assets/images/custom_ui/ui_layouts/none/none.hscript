@@ -1,0 +1,3 @@
+function start(song) {
+    // this is only here for the sake of MacOS ports
+}

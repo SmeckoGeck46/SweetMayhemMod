@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="box_0_static.png" width="1236" height="369">
+  <SubTexture name="open000" x="10" y="10"  width="1216" height="349" frameX="-135" frameY="-403" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="normal000" x="10" y="10"  width="1216" height="349" frameX="-135" frameY="-403" frameWidth="1494" frameHeight="864"/>
+</TextureAtlas>

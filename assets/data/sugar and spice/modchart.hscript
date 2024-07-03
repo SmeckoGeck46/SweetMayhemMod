@@ -1,0 +1,5 @@
+function beatHit(beat) {
+	switch (beat) {
+		case 368: //this is where the music stops
+			currentPlayState.gfSpeed = 512;
+}}

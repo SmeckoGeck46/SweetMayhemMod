@@ -1,0 +1,71 @@
+function init(char) {// char is a Character
+if (!char.isDie){
+	char.frames = FlxAtlasFrames.fromSparrow(hscriptPath + 'char.png', hscriptPath + 'char.xml');
+	char.animation.addByPrefix('idle', 'BF Lego Idle Shark', 16, false);
+	char.animation.addByPrefix('singUP', 'BF Lego Up Shark', 16, false);
+	char.animation.addByPrefix('singLEFT','BF Lego Right Shark', 16, false);
+	char.animation.addByPrefix('singRIGHT', 'BF Lego Left Shark', 16, false);
+	char.animation.addByPrefix('singDOWN', 'BF Lego Down Shark', 16, false);
+	char.animation.addByPrefix('singUPmiss', 'BF Lego Up Miss', 16, false);
+	char.animation.addByPrefix('singLEFTmiss','BF Lego Right Miss', 16, false);
+	char.animation.addByPrefix('singRIGHTmiss', 'BF Lego Left Miss', 16, false);
+	char.animation.addByPrefix('singDOWNmiss', 'BF Lego Down Miss', 16, false);
+	char.animation.addByPrefix('hey', 'BF Lego yaas queen', 16, false);
+	char.animation.addByPrefix('hair_JUST_GO_FOR_IT', 'BF Lego Boba Shark', 16, false);
+	if(char.isPlayer){ //player offsets
+		char.followCamX = -100;
+		char.followCamY = 50;
+		
+		char.addOffset('singUP',0,-20);
+		char.addOffset('singRIGHT',-16,-20);
+		char.addOffset('singLEFT',16,-20);
+		char.addOffset('singDOWN',0,-20);
+		char.addOffset('singUPmiss',0,-20);
+		char.addOffset('singRIGHTmiss',-16,-20);
+		char.addOffset('singLEFTmiss',16,-20);
+		char.addOffset('singDOWNmiss',0,-20);
+	}else{ //opponent offsets
+		char.followCamX = 259;
+		char.followCamY = -50;
+		
+		char.addOffset('singUP',0,-20);
+		char.addOffset('singRIGHT',16,-20);
+		char.addOffset('singLEFT',-16,-20);
+		char.addOffset('singDOWN',0,-20);
+	}
+	char.addOffset('idle',0,-20);
+	char.addOffset('hair_JUST_GO_FOR_IT',0,-20);
+	char.addOffset('hey',0,-20);
+	char.playAnim('idle');
+	char.flipX = true;
+	
+	char.enemyOffsetX = 0;
+	char.enemyOffsetY = 200;
+	char.playerOffsetX = -50;
+	char.playerOffsetY = -150;
+	char.midpointX = 0;
+	char.midpointY = 0;
+	//dem health bar colors
+	char.enemyColor = 0xFF31B0D1;
+	char.playerColor = 0xFF31B0D1;
+}else{
+	trace("his ass was eaten by White Ify");
+	//I just wanted to make the game over sprites have a unique title instead of just "dead.png"
+	char.frames = FlxAtlasFrames.fromSparrow(hscriptPath + 'padildo_go_oof.png', hscriptPath + 'padildo_go_oof.xml');
+	char.animation.addByIndices('firstDeath', 'A bf lose start', [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39], "",16, false);
+	char.animation.addByIndices('deathLoop','B bf lose looping', [0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17], "",16, false);
+	char.animation.addByPrefix('deathConfirm', 'C bf lose finale', 16, false);
+	char.addOffset('firstDeath',-5,110);
+	char.addOffset('deathLoop',-5,110);
+	char.addOffset('deathConfirm',-5,110);
+	char.flipX = true;
+}}
+dadVar = 4;
+isPixel = false;
+function update(elapsed, char) {}
+var danced = false;
+function dance(char) {
+	if (!StringTools.startsWith(char.animation.curAnim.name, 'hair')) {
+		trace('it\'s boyfriend but he\'s LEGO');
+		char.playAnim('idle');
+}}

@@ -1,0 +1,7 @@
+{
+  "animation": {
+    "idle": "chapter 0 poster"
+  },
+  "scale": 0.3,
+  "offset": [-300,-350]
+}

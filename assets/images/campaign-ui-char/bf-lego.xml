@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="bf-lego.png" width="1781" height="1491">
+  <SubTexture name="2 bf lego yay000" x="7" y="7"  width="407" height="485" frameX="-97" frameY="-64" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="2 bf lego yay001" x="7" y="506"  width="428" height="483" frameX="-92" frameY="-66" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="2 bf lego yay002" x="428" y="7"  width="441" height="482" frameX="-89" frameY="-67" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="2 bf lego yay003" x="7" y="1003"  width="448" height="481" frameX="-88" frameY="-68" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle004" x="449" y="503"  width="368" height="480" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle005" x="469" y="997"  width="368" height="480" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="2 bf lego yay004" x="831" y="503"  width="451" height="479" frameX="-87" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle006" x="883" y="7"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle007" x="883" y="7"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle008" x="883" y="7"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle009" x="883" y="7"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle010" x="883" y="7"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle011" x="883" y="7"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle012" x="883" y="7"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle013" x="883" y="7"  width="368" height="479" frameX="-83" frameY="-69" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle003" x="1265" y="7"  width="367" height="479" frameX="-84" frameY="-70" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle002" x="1296" y="500" width="478" height="367" rotated="true"  frameX="-84" frameY="-71" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle001" x="1296" y="881" width="476" height="366" rotated="true"  frameX="-85" frameY="-73" frameWidth="565" frameHeight="564"/>
+  <SubTexture name="1 bf lego idle000" x="851" y="996"  width="365" height="474" frameX="-86" frameY="-75" frameWidth="565" frameHeight="564"/>
+</TextureAtlas>

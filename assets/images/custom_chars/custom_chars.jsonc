@@ -1,0 +1,13 @@
+{
+"bf":{"like":"bf","icons":[0,1,2,3],"colors":["#31B0D1"]},
+"gf":{"like":"gf","icons":[12,13,14,15],"colors":["#EE19D9"]},
+"dad":{"like":"dad","icons":[0,1,1,2],"colors":["#d83453"]},
+"mayhemMasked":{"like":"sweetmayhem","icons":[0,1,2,3],"colors":["#da72aa"]},
+"mayhemUnmasked":{"like":"sweetmayhem","icons":[0,1,2,3],"colors":["#da72aa"]},
+"mayhemUnmasked-alt":{"like":"mayhemUnmasked-alt","icons":[0,3,2,1],"colors":["#da72aa"]},
+"bf-lego":{"like":"bf-lego","icons":[0,1,2,3],"colors":["#31B0D1"]},
+"gf-balthazar":{"like":"gf-balthazar","icons":[24,27,26,25],"colors":["#229aca"]},
+"balthazarOnly":{"like":"gf-balthazar","icons":[24,25,26,27],"colors":["#229aca"]},
+"gfTutorialOnly":{"like":"gf-balthazar","icons":[24,27,26,25],"colors":["#229aca"]},
+"larryPoppins":{"like":"larryPoppins","icons":[0,1,2,3],"colors":["#d45f43"]}
+}

@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="GF Balthazar.png" width="8095" height="8314">
+  <SubTexture name="gf balth yayz000" x="6" y="6" width="831" height="1564" rotated="true"  frameX="-118" frameY="-119" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left000" x="6" y="1582" width="830" height="1564" rotated="true"  frameX="-118" frameY="-119" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right000" x="6" y="3158" width="830" height="1564" rotated="true"  frameX="-118" frameY="-119" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness000" x="6" y="4734" width="830" height="1564" rotated="true"  frameX="-118" frameY="-119" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo000" x="6" y="6310" width="830" height="1564" rotated="true"  frameX="-118" frameY="-119" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz001" x="848" y="1582" width="834" height="1544" rotated="true"  frameX="-128" frameY="-116" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left001" x="849" y="6" width="833" height="1544" rotated="true"  frameX="-128" frameY="-116" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right001" x="848" y="3138" width="833" height="1544" rotated="true"  frameX="-128" frameY="-116" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness001" x="848" y="4694" width="833" height="1544" rotated="true"  frameX="-128" frameY="-116" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo001" x="848" y="6250" width="833" height="1544" rotated="true"  frameX="-128" frameY="-116" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left002" x="1693" y="3138" width="836" height="1526" rotated="true"  frameX="-137" frameY="-113" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right002" x="1694" y="6" width="836" height="1526" rotated="true"  frameX="-137" frameY="-113" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness002" x="1694" y="1544" width="836" height="1526" rotated="true"  frameX="-137" frameY="-113" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz002" x="1693" y="4676" width="836" height="1526" rotated="true"  frameX="-137" frameY="-113" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo002" x="1693" y="6214" width="836" height="1526" rotated="true"  frameX="-137" frameY="-113" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left003" x="2541" y="3082" width="838" height="1512" rotated="true"  frameX="-144" frameY="-111" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right003" x="2542" y="6" width="838" height="1512" rotated="true"  frameX="-144" frameY="-111" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness003" x="2542" y="1530" width="838" height="1512" rotated="true"  frameX="-144" frameY="-111" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz003" x="2541" y="4606" width="838" height="1512" rotated="true"  frameX="-144" frameY="-111" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo003" x="2541" y="6130" width="838" height="1512" rotated="true"  frameX="-144" frameY="-111" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left004" x="3392" y="6"  width="1502" height="839" frameX="-149" frameY="-110" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right004" x="4906" y="6"  width="1502" height="839" frameX="-149" frameY="-110" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness004" x="6420" y="6"  width="1502" height="839" frameX="-149" frameY="-110" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz004" x="3392" y="857"  width="1502" height="839" frameX="-149" frameY="-110" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo004" x="4906" y="857"  width="1502" height="839" frameX="-149" frameY="-110" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left005" x="6420" y="857"  width="1496" height="840" frameX="-152" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right005" x="3392" y="1708"  width="1496" height="840" frameX="-152" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness005" x="4900" y="1708"  width="1496" height="840" frameX="-152" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz005" x="6408" y="1709"  width="1496" height="840" frameX="-152" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo005" x="3392" y="2560"  width="1496" height="840" frameX="-152" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo068" x="4900" y="2560"  width="1492" height="841" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo067" x="3391" y="3412"  width="1492" height="840" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left006" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness006" x="6404" y="2561"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness007" x="6404" y="3412"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness008" x="4895" y="3413"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness009" x="4895" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz006" x="6399" y="4263"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo037" x="6399" y="5114"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo038" x="3391" y="5965" width="839" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo039" x="3391" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo040" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo069" x="6399" y="5965" width="839" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo070" x="7250" y="5965" width="839" height="1492" rotated="true"  frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo071" x="4895" y="5966"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo072" x="4895" y="6817"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo073" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left007" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove left008" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right006" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right007" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth groove right008" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo006" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo007" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo008" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo009" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo010" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo011" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo012" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo013" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo014" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo015" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo016" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo017" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo018" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo019" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo020" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo021" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo022" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo023" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo024" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo025" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo026" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo027" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo028" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo029" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo030" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo031" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo032" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo033" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo034" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo035" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo036" x="3391" y="4264"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness010" x="6404" y="2561"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth sadness011" x="6404" y="3412"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz007" x="6399" y="4263"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz008" x="6399" y="4263"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz009" x="6399" y="4263"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz010" x="6399" y="4263"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz011" x="6399" y="4263"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz012" x="6399" y="4263"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf balth yayz013" x="6399" y="4263"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo041" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo042" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo043" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo044" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo045" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo046" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo047" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo048" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo049" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo050" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo051" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo052" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo053" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo054" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo055" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo056" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo057" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo058" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo059" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo060" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo061" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo062" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo063" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo064" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo065" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo066" x="4895" y="5115"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo074" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo075" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo076" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo077" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo078" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo079" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo080" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo081" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+  <SubTexture name="gf cutscene padildo082" x="6399" y="7469"  width="1492" height="839" frameX="-154" frameY="-109" frameWidth="1800" frameHeight="1068"/>
+</TextureAtlas>

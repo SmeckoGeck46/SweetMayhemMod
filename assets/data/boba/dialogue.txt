@@ -1,0 +1,32 @@
+[178[ [179[ [223[ [216[ |Sweet Mayhem cutscene 2| *100* =1= #box_0_start#  <0.08< >4> (0.2( )5) {0.83{ }5} `handButHeart` ~diceStapleClick~
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Say, that was pretty good!
+:gf-balthazar: $default-open$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#FFFFFF! ?#000000? .. ~~      Yeah! That was awesome!
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.1; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      ...Really?
+:mayhemMasked: $shy-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.1; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      You guys like my singing?
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Of course!
+:mayhemMasked: $shy-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.1; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      ...well...um...
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      You know what?
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      How about we sing again?
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      You're up for a rematch, huh?
+:mayhemMasked: $explain-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      Yes! A rematch!
+:mayhemMasked: $mad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      I only used a fraction of my singing talent.
+:mayhemMasked: $mad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      They don't call me "Sweet Mayhem" for nothing!
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      Actually, my name is already "Sweet Mayhem," but...
+:mayhemMasked: $mad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      There's no way anyone has ever beat me in a singing competition!
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Wait a minute, your actual name is "Sweet Mayhem?"
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      Yes.
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      So, that means your full title is "General Sweet Mayhem?"
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      Yes.
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.4; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      ...
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Cool.
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.1; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      ...Anyways...
+:mayhemMasked: $mad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      Let me show you just what I'm made of! I'm not going easy on you this time!
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      I'm liking this attitude.
+:bf-lego: $determined$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      You're on!
+:mayhemMasked: $default-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      Balthazar, give me a beat! I want something fast and difficult!
+:balthazarOnly: $YHP-normal-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Gotcha.
+:balthazarOnly: $YHP-normal-play$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      I believe I have something fast-paced and epic for the occasion.
+:mayhemMasked: $explain-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      Perfect!
+:mayhemMasked: $mad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      Alright, Boyfriend. It's time for you to meet your match!
+:mayhemMasked: $mad-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_mayhem# ^mayhem_masked^ %1% !#FFFFFF! ?#000000? .. ~~      LET'S DO THIS!!!
+:bf-lego: $determined$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      SKIBIDI BOP MMM DADA

@@ -1,0 +1,10 @@
+{
+  "animation": {
+    "idle": "BF idle dance white0",
+    "bfConfirm": "BF HEY!!0"
+  },
+  "scale": 0.75,
+  "frameRate": 16,
+  "flipX": false,
+  "offset": [-80, -40]
+}

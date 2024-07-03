@@ -1,0 +1,42 @@
+gfTitle.json stuff:
+"animationType": what animation type it is (string)
+so, let me explain this one:
+	if you set it to "gfIdle", it plays like a regular gf idle animation
+	if you set it to "bfIdle", it plays like a regular bf idle animation
+	if you set it to "loopIdle", it plays like a regular bf idle animation, but looped
+"curName": animation name of the little shit (string)
+"useIndices": if "animationType" is set to "gfIdle", then this determines if you want the gf animation to play out with either
+				a series of frames or not (bool)
+"leftFrames": setup idea: [30, 0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14] (float array, only if "useIndices" is true)
+"rightFrames": setup idea: [15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29] (float array, only if "useIndices" is true)
+"leftName": animation name of the left dance (string, only if "useIndices" is false)
+"rightName": animation name of the right dance (string, only if "useIndices" is false)
+"curX": the x offset (float)
+"curY": the y offset (float)
+"curFPS": the FPS of the animation (float)
+"shouldScale": if it should scale the little shit (boolean)
+"curScale": what to scale it by, only works if shouldScale is true (float, converted to int, rounded by 0)
+"isPixel": if it should have anti-aliasing (bool)
+	by the way, the values are flipped for isPixel
+	so if you set it to true, it would turn off anti-aliasing
+	if you set it to false, it would turn on anti-aliasing
+
+"shouldWink": if there should be a wink animation
+"winkName": what the wink animation's name is
+"winkFPS": what the wink animation's framerate is
+
+enterTitle.json stuff:
+"idleName": idle animation name (string)
+"pressName": press animation name (string)
+"curX": the x offset (float)
+"curY": the y offset (float)
+"idleFPS": the FPS of the idle animation (float)
+"pressFPS": the FPS of the press animation (float)
+"idleLoop": if the idle animation should loop (boolean)
+"pressLoop": if the press animation should loop (boolean)
+"shouldScale": if it should scale the little shit (boolean)
+"curScale": what to scale it by, only works if shouldScale is true (float, converted to int, rounded by 0)
+"isPixel": if it should have anti-aliasing (bool)
+	by the way, the values are flipped for isPixel
+	so if you set it to true, it would turn off anti-aliasing
+	if you set it to false, it would turn on anti-aliasing

@@ -1,0 +1,671 @@
+{
+  "meta": {
+    "version": "0.6.7"
+  },
+  "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\Finished Sprites",
+  "images": [
+    {
+      "name": "gf balth groove left000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove left000.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove left001.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove left001.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove left002.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove left002.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove left003.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove left003.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove left004.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove left004.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove left005.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove left005.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove left006.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove left006.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove left007.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove left007.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove left008.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove left008.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove right000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove right000.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove right001.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove right001.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove right002.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove right002.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove right003.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove right003.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove right004.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove right004.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove right005.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove right005.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove right006.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove right006.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove right007.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove right007.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth groove right008.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth groove right008.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness000.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness001.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness001.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness002.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness002.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness003.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness003.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness004.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness004.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness005.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness005.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness006.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness006.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness007.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness007.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness008.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness008.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness009.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness009.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness010.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness010.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth sadness011.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth sadness011.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz000.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz001.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz001.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz002.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz002.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz003.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz003.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz004.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz004.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz005.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz005.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz006.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz006.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz007.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz007.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz008.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz008.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz009.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz009.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz010.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz010.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz011.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz011.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz012.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz012.png",
+      "folder": ""
+    },
+    {
+      "name": "gf balth yayz013.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf balth yayz013.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo000.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo000.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo001.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo001.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo002.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo002.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo003.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo003.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo004.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo004.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo005.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo005.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo006.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo006.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo007.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo007.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo008.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo008.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo009.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo009.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo010.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo010.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo011.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo011.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo012.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo012.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo013.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo013.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo014.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo014.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo015.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo015.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo016.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo016.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo017.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo017.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo018.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo018.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo019.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo019.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo020.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo020.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo021.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo021.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo022.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo022.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo023.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo023.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo024.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo024.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo025.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo025.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo026.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo026.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo027.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo027.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo028.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo028.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo029.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo029.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo030.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo030.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo031.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo031.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo032.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo032.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo033.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo033.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo034.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo034.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo035.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo035.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo036.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo036.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo037.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo037.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo038.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo038.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo039.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo039.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo040.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo040.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo041.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo041.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo042.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo042.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo043.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo043.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo044.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo044.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo045.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo045.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo046.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo046.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo047.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo047.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo048.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo048.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo049.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo049.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo050.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo050.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo051.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo051.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo052.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo052.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo053.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo053.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo054.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo054.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo055.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo055.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo056.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo056.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo057.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo057.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo058.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo058.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo059.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo059.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo060.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo060.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo061.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo061.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo062.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo062.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo063.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo063.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo064.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo064.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo065.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo065.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo066.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo066.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo067.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo067.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo068.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo068.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo069.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo069.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo070.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo070.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo071.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo071.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo072.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo072.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo073.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo073.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo074.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo074.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo075.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo075.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo076.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo076.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo077.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo077.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo078.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo078.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo079.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo079.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo080.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo080.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo081.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo081.png",
+      "folder": ""
+    },
+    {
+      "name": "gf cutscene padildo082.png",
+      "path": "F:/1 Richie/Yay Shun/Drawings/VS General Mayhem stuff/GF stuff/GF and Balthazar/separate sprites/gf cutscene padildo082.png",
+      "folder": ""
+    }
+  ],
+  "folders": [],
+  "packOptions": {
+    "textureName": "GF Balthazar",
+    "textureFormat": "png",
+    "removeFileExtension": true,
+    "prependFolderName": false,
+    "base64Export": false,
+    "tinify": false,
+    "tinifyKey": "",
+    "scale": 1,
+    "filter": "none",
+    "exporter": "Starling",
+    "fileName": "pack-result",
+    "savePath": "F:\\1 Richie\\Yay Shun\\Drawings\\VS General Mayhem stuff\\Finished Sprites",
+    "width": 8400,
+    "height": 8372,
+    "fixedSize": false,
+    "powerOfTwo": false,
+    "padding": 6,
+    "extrude": 0,
+    "allowRotation": true,
+    "allowTrim": true,
+    "trimMode": "trim",
+    "alphaThreshold": "0",
+    "detectIdentical": true,
+    "packer": "MaxRectsBin",
+    "packerMethod": "BestShortSideFit"
+  }
+}

@@ -1,0 +1,1 @@
+This folder is here to give people access to the chromatic scales and UTAU voicebanks and stuff.

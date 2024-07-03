@@ -1,0 +1,56 @@
+trace("obamna");
+function init(char) {
+	char.frames = FlxAtlasFrames.fromSparrow(hscriptPath + 'obamna_SODA.png', hscriptPath + 'obamna_SODA.xml');
+	char.setGraphicSize(Std.int(char.width * 0.9));
+	char.animation.addByPrefix('danceLeft', "gf balth groove left", 16, false);
+	char.animation.addByPrefix('danceRight', "gf balth groove right0", 16, false);
+	char.animation.addByIndices('sad', "gf balth sadness", [0,1,2,3,4,5,6,7,8,9,10,11,8,9,10,11,8,9], "",16, false);
+	char.animation.addByPrefix('cheer', "gf balth yayz", 16, false);
+	trace("SODA");
+	switch (char.curCharacter) { //character specific stuff
+		case "gf-balthazar":
+			char.animation.addByPrefix('hair_padildo', "gf cutscene padildo", 16, false);
+			char.addOffset('hair_padildo',399,180);
+			char.likeGf = true;
+			char.gfEpicLevel = Level_Sing;
+		case "gfTutorialOnly":
+			char.likeGf = false;
+			if (char.isPlayer) {
+				char.animation.addByPrefix('singRIGHT',"gf pointing left", 24, false);
+				char.animation.addByPrefix('singLEFT', "gf pointing right", 24, false);
+				char.flipX = true;
+			} else {
+				char.animation.addByPrefix('singLEFT', "gf pointing left", 16, false);
+				char.animation.addByPrefix('singRIGHT', "gf pointing right", 16, false);
+				char.flipX = false;
+			}
+			char.animation.addByPrefix('singUP', "gf pointing up", 16, false);
+			char.animation.addByPrefix('singDOWN', "gf pointing down", 16, false);
+			char.addOffset('singLEFT',399,180);
+			char.addOffset('singRIGHT',399,180);
+			char.addOffset('singUP',399,180);
+			char.addOffset('singDOWN',399,180);
+		default:
+			char.likeGf = true;
+	}
+	char.addOffset('sad',399,180);
+	char.addOffset('cheer',399,180);
+	char.addOffset('danceLeft',399,180);
+	char.addOffset('danceRight',399,180);
+	char.playAnim('danceRight');
+	char.enemyColor = 0xff229aca;
+	char.playerColor = 0xff229aca;
+}
+portraitOffset = [0,0];
+dadVar = 4;
+isPixel = false;
+function update(elapsed, char) {}
+var danced = false;
+function dance(char) {
+	if (!StringTools.startsWith(char.animation.curAnim.name, 'hair')) {
+		danced = !danced;
+		trace("give us the book with the tiddies in it");
+		if (danced) { char.playAnim('danceRight'); }
+		else { char.playAnim('danceLeft'); }
+	}
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="pauseUI.png" width="317" height="335">
+  <SubTexture name="yellowreplay0000" x="6" y="6"  width="183" height="116" frameX="-30" frameY="-39" frameWidth="256" frameHeight="200"/>
+  <SubTexture name="cancelyellow0000" x="201" y="6" width="110" height="203" rotated="true"  frameX="-13" frameY="-38" frameWidth="977" frameHeight="199"/>
+  <SubTexture name="bluecancel0000" x="6" y="134" width="101" height="195" rotated="true"  frameX="-17" frameY="-42" frameWidth="977" frameHeight="200"/>
+  <SubTexture name="bluereplay0000" x="119" y="221"  width="175" height="108" frameX="-34" frameY="-43" frameWidth="256" frameHeight="200"/>
+</TextureAtlas>

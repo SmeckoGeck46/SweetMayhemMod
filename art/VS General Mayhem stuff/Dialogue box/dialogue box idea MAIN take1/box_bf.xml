@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="box_bf.png" width="2978" height="1816">
+  <SubTexture name="normal000" x="10" y="10"  width="1216" height="468" frameX="-135" frameY="-284" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open002" x="1246" y="10"  width="1360" height="430" frameX="-63" frameY="-322" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open000" x="2626" y="10"  width="342" height="381" frameX="-571" frameY="-371" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open003" x="1246" y="460"  width="1312" height="443" frameX="-87" frameY="-309" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open005" x="10" y="498"  width="1216" height="468" frameX="-135" frameY="-284" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open004" x="1246" y="923"  width="1264" height="456" frameX="-111" frameY="-296" frameWidth="1494" frameHeight="864"/>
+  <SubTexture name="open001" x="10" y="1399"  width="835" height="407" frameX="-325" frameY="-345" frameWidth="1494" frameHeight="864"/>
+</TextureAtlas>

@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="text_box.png">
+<SubTexture name="open0000" x="0" y="444" width="345" height="369" frameX="-581" frameY="-403" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0001" x="345" y="444" width="852" height="369" frameX="-327" frameY="-403" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0002" x="1236" y="0" width="1296" height="369" frameX="-105" frameY="-403" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0003" x="0" y="813" width="1344" height="369" frameX="-81" frameY="-403" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0004" x="0" y="1182" width="1308" height="369" frameX="-99" frameY="-403" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0005" x="1236" y="369" width="1272" height="369" frameX="-117" frameY="-403" frameWidth="1494" frameHeight="864" />
+<SubTexture name="open0006" x="0" y="1551" width="1236" height="369" frameX="-135" frameY="-403" frameWidth="1494" frameHeight="864" />
+<SubTexture name="normal0000" x="0" y="0" width="1236" height="444" frameX="-135" frameY="-328" frameWidth="1494" frameHeight="864" />
+</TextureAtlas>

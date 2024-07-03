@@ -1,0 +1,68 @@
+var tubBack;
+var tubFront;
+
+function start(song) {
+
+	setDefaultZoom(0.6);
+
+	var bg = new FlxSprite(-1300, -1620).loadGraphic(hscriptPath + 'BG main.png');
+	bg.antialiasing = true;
+	bg.updateHitbox();
+	bg.setGraphicSize(Std.int(bg.width * 0.8));
+	addSprite(bg, BEHIND_ALL);
+	
+	tubBack = new MetroSprite(1500, 200,true);
+	tubBack.frames = FlxAtlasFrames.fromSparrow(hscriptPath + 'HotTubBack.png', hscriptPath + 'HotTubBack.xml');
+	tubBack.animation.addByPrefix("idle", "bruce bop", 16, false);
+	tubBack.animation.play("idle");
+	tubBack.antialiasing = true;
+	tubBack.setGraphicSize(Std.int(tubBack.width * 0.56));
+	tubBack.updateHitbox();
+	addSprite(tubBack, BEHIND_ALL);
+	
+	tubFront = new MetroSprite(1500, 200,true);
+	tubFront.frames = FlxAtlasFrames.fromSparrow(hscriptPath + 'HotTubFront.png', hscriptPath + 'HotTubFront.xml');
+	tubFront.animation.addByPrefix("loop", "HotTubFront tub water", 24, true);
+	tubFront.animation.play("loop");
+	tubFront.antialiasing = true;
+	tubFront.setGraphicSize(Std.int(tubFront.width * 0.56));
+	tubFront.updateHitbox();
+	addSprite(tubFront, BEHIND_ALL);
+
+	getHaxeActor("bf").x += 225;
+	getHaxeActor("bf").y += 50;
+	getHaxeActor("gf").x -= 100;
+	getHaxeActor("gf").y -= 25;
+
+	switch (curSong){
+		case "Tutorial-Brickmix": //workaround for GF's position in the tutorial
+			getHaxeActor("dad").x += 220;
+			getHaxeActor("dad").y += 20;
+			getHaxeActor("dad").followCamX -= 150;
+			getHaxeActor("dad").followCamY -= 50;
+			getHaxeActor("bf").followCamX += 100;
+			getHaxeActor("bf").followCamY += 20;
+		default: //basically everything else
+			getHaxeActor("dad").y += 50;
+			getHaxeActor("bf").followCamX -= 100;
+			getHaxeActor("bf").followCamY -= 100;
+	}
+
+	//char swap offsets [0 = bf.x, 1 = bf.y, 2 = gf.x, 3 = gf.y, 4 = dad.x, 5 = dad.y];
+	swapOffsets[0] += 225;
+	swapOffsets[1] += 50;
+	swapOffsets[2] -= 100;
+	swapOffsets[3] -= 25;
+	swapOffsets[5] += 50;
+	
+}
+
+function beatHit(beat) {
+	if (curBeat % 2 == 1)
+		tubBack.dance();
+}
+
+function playerOneSing() { //code that healths the bar
+	if(currentPlayState.demoMode) //healths the bar in demo mode only
+		currentPlayState.health += 0.02;
+}

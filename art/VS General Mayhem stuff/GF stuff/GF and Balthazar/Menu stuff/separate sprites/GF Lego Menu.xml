@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+Created with Free texture packer v0.6.7 http://free-tex-packer.com
+-->
+<TextureAtlas imagePath="GF Lego Menu.png" width="3286" height="3341">
+  <SubTexture name="The GF Lego Menu Kanye West meal009" x="6" y="6"  width="677" height="757" frameX="-10" frameY="-15" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal000" x="695" y="6"  width="677" height="757" frameX="-10" frameY="-15" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal010" x="6" y="775" width="753" height="658" rotated="true"  frameX="-19" frameY="-19" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal001" x="771" y="775" width="753" height="658" rotated="true"  frameX="-19" frameY="-19" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal011" x="1384" y="6"  width="642" height="749" frameX="-26" frameY="-23" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal002" x="6" y="1445" width="749" height="642" rotated="true"  frameX="-26" frameY="-23" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal012" x="767" y="1445" width="746" height="629" rotated="true"  frameX="-32" frameY="-26" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal003" x="1525" y="1445" width="746" height="629" rotated="true"  frameX="-32" frameY="-26" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal004" x="2038" y="6"  width="620" height="744" frameX="-36" frameY="-28" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal013" x="1536" y="767" width="744" height="620" rotated="true"  frameX="-36" frameY="-28" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal005" x="6" y="2099" width="742" height="614" rotated="true"  frameX="-39" frameY="-30" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal014" x="760" y="2099" width="742" height="614" rotated="true"  frameX="-39" frameY="-30" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal007" x="1514" y="2086" width="740" height="610" rotated="true"  frameX="-41" frameY="-31" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal008" x="2266" y="2086" width="740" height="610" rotated="true"  frameX="-41" frameY="-31" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal006" x="2670" y="6"  width="610" height="740" frameX="-41" frameY="-31" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal015" x="2670" y="758"  width="610" height="740" frameX="-41" frameY="-31" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal016" x="6" y="2725" width="740" height="610" rotated="true"  frameX="-41" frameY="-31" frameWidth="703" frameHeight="777"/>
+  <SubTexture name="The GF Lego Menu Kanye West meal017" x="758" y="2725" width="740" height="610" rotated="true"  frameX="-41" frameY="-31" frameWidth="703" frameHeight="777"/>
+</TextureAtlas>

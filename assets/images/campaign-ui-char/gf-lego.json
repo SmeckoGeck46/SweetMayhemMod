@@ -1,0 +1,10 @@
+{
+  "animation" : {
+    "idle": "The GF Lego Menu Kanye West meal"
+  },
+  "scale": 0.45,
+  "frameRate": 18,
+  "offset": [36,-10]
+  "flipX": false,
+  "loopAnim": false
+}

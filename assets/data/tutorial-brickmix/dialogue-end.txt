@@ -1,0 +1,14 @@
+[178[ [179[ [223[ [216[ |TutorialThing| *100* =1= #box_0_start#  <0.08< >4> (0.2( )5) {0.83{ }5} `handButHeart` ~diceStapleClick~
+:balthazarOnly: $YHP-pleased-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Well, that was fun!
+:bf-lego: $happy$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      It sure was!
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Also, what was with that "left right left right right right right right right" pattern?
+:gf-balthazar: $unimpressed-front$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_gf# ^gfText^ %0.9% !#ffffff! ?#000000? .. ~~      I remember seeing that pattern be used to maintain a "Cool" rank in a rhythm game, and I felt like referencing it.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Ah.
+:bf-lego: $intrigue$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      That makes sense.
+:mayhemUnmasked-alt: $BrucePort$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.04; |false| #box_bruce# ^bruce_willis^ %0.75% !#ffffff! ?#000000? .. ~~      I was wondering what that was.
+:balthazarOnly: $YHP-normal-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      I just thought that was a fun rhythm you like doing.
+:balthazarOnly: $YHP-normal-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      It definitely makes sense that you were referencing an exploit in a rhythm game.
+:balthazarOnly: $YHP-flattered-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Oh, hey, would you look at that.
+:balthazarOnly: $YHP-flattered-fight$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |true| #box_balthazar# ^balth_stuff^ %0.9% !#FFFFFF! ?#000000? .. ~~      Here comes the General.
+:bf-lego: $determined$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      RISE UP
+:bf-lego: $confused$ [CooperHewitt-Bold[ ]36] *100* =0= +0+ -0- <0< >0> ;0.05; |false| #box_bf# ^bfText^ %1% !#FFFFFF! ?#000000? .. ~~      Wait, the General?
