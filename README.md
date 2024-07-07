@@ -96,8 +96,8 @@ To run it from your desktop (Windows, Mac, Linux) it can be a bit more involved.
 * MSVC v141 - VS 2017 C++ x64/x86 build tools
 * MSVC v140 - VS 2015 C++ build tools (v14.00)
 
-This will install about 22GB of crap, but once that is done you can open up a command line in the project's directory and run `lime test windows -debug` for debug testing or `lime test windows` for main release testing. Once that command finishes (it takes forever even on a higher end PC), you can run FNF from the .exe file under export\release\windows\bin
-As for Mac, 'lime test macos' should work, if not the internet surely has a guide on how to compile Haxe stuff for Mac.
+This will install about 22GB of crap, but once that is done you can open up a command line in the project's directory and run `lime test windows -debug` for debug testing or `lime test windows` for main release testing. Once that command finishes (it takes forever even on a higher end PC), you can run FNF from the .exe file under export\debug\windows\bin for debug builds or export\release\windows\bin for release builds. If you don't want to run the game automatically after compiling, use `lime build windows` instead.
+As for Mac, `lime test macos` and `lime build macos` should work, if not the internet surely has a guide on how to compile Haxe stuff for Mac.
 ### Additional guides
 
 - [Command line basics](https://ninjamuffin99.newgrounds.com/news/post/1090480)
