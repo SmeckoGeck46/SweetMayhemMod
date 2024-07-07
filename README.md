@@ -19,7 +19,7 @@ Additional technical features included in this mod:
   - hideEverything: hides all of the UI without hiding the pause screen (doing `camHUD.visible = false;` hides the UI but also hides the pause screen, making it a road block for users)
   - goSpammy: turns on ghost-tapping in the middle of the song; perfect for custscenes in the middle of a song
 
-- Play the Original Game: https://ninja-muffin24.itch.io/funkin
+Play the Original Game: https://ninja-muffin24.itch.io/funkin
 
 ## Credits for the Original Game
 
